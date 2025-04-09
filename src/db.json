@@ -1,0 +1,952 @@
+{
+  "Student": [
+    {
+      "id": "1",
+      "image": "https://png.pngtree.com/png-vector/20240528/ourmid/pngtree-front-view-of-a-smiling-business-woman-png-image_12509704.png",
+      "Name": "زهرا فراهانی",
+      "Proffesion": "طراح UI/UX، تپسی"
+    },
+    {
+      "id": "2",
+      "image": "https://latinamericanspanishcafe.com/wp-content/uploads/2016/10/handsome-man.jpg",
+      "Name": "آرش عضیمی",
+      "Proffesion": "طراح فرانت ، تپسی"
+    },
+    {
+      "id": "3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1E2-4evFgkdYaz0pR0-8Yq7PXHC9eQvmuYg&s",
+      "Name": "نهال نوروزی",
+      "Proffesion": "طراح بک اند ، تپسی"
+    },
+    {
+      "id": "4",
+      "image": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/gunmetal-black-rimless-rectangle-vincent-chase-sleek-steel-vc-e13816-c1-eyeglasses_csvfile-1676977837749-17_dec_vc_male_shoot29892_146982.jpg",
+      "Name": "علی نوروزی",
+      "Proffesion": "طراح فرانت ، همراهه اول"
+    }
+  ],
+  "videos": [
+    {
+      "id": "1",
+      "image1": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg",
+      "image2": "https://cdn1.vectorstock.com/i/1000x1000/57/15/work-coding-and-programming-on-a-laptop-vector-31045715.jpg",
+      "image3": "https://png.pngtree.com/thumb_back/fh260/background/20240610/pngtree-computer-of-a-programmer-with-lines-code-of-software-image_15746003.jpg",
+      "title": "نحوه طراحی دستی ایده‌ها",
+      "name": "استاد علی بابایی",
+      "rating": "(122)4.8",
+      "price": "128",
+      "time": "40 دقیقه"
+    },
+    {
+      "id": "2",
+      "image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInwp3KwXrDSLlYu5VB6A5wwEG-yblJD_EOw&s",
+      "image2": "https://cdn.mos.cms.futurecdn.net/x8oyLJtDJBPmL59WUoa36C.jpg",
+      "image3": "https://static.vecteezy.com/system/resources/thumbnails/051/261/577/small_2x/person-coding-on-a-laptop-with-vibrant-programming-code-on-the-screen-photo.jpeg",
+      "title": "نحوه طراحی دستی ایده‌ها",
+      "name": "استاد علی بابایی",
+      "rating": "(122)4.8",
+      "price": "128",
+      "time": "40 دقیقه"
+    },
+    {
+      "id": "3",
+      "image1": "https://imageio.forbes.com/specials-images/imageserve/64c968242b70c1a42269db63/Arcane/960x0.png?format=png&width=960",
+      "image2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BzpMj8bdsF_R8jDiQPKj1FAN8epfWa6lzA&s",
+      "image3": "https://lumiere-a.akamaihd.net/v1/images/p_toystory4_19639_917ad716.jpeg?region=0%2C0%2C540%2C810",
+      "title": "نحوه طراحی انیمیشن ",
+      "name": "استاد منا عزیزی",
+      "rating": "(122)4.8",
+      "price": "128",
+      "time": "40 دقیقه"
+    },
+    {
+      "id": "4",
+      "image1": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png",
+      "image2": "https://media.geeksforgeeks.org/wp-content/uploads/20240703165023/Frontend-Development-(1).webp",
+      "image3": "https://sanjeman.com/wp-content/uploads/2019/04/front-end-skills.png",
+      "title": "نحوه طراحی فرانت اند ",
+      "name": "استاد مرتضی اویسی",
+      "rating": "(182)3.8",
+      "price": "240",
+      "time": "20 دقیقه"
+    },
+    {
+      "id": "5",
+      "image1": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/8177834/cover_image/optimized/Leverage%20LLMs%20for%20Coding-Blog-0cdfd3ae36e086935574c2ab341387ce.png",
+      "image2": "https://www.simplilearn.com/ice9/free_resources_article_thumb/How_to_Become_a_Back_End_Developer.jpg",
+      "image3": "https://mrcode.ir/wp-content/uploads/2019/04/php-series-mrcode.jpg.webp",
+      "title": "نحوه طراحی بک اند",
+      "name": "استاد علی بابایی",
+      "rating": "(142)4.5",
+      "price": "320",
+      "time": "50 دقیقه"
+    }
+  ],
+  "Future": [
+    {
+      "id": "1",
+      "image1": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg",
+      "title": "طراحی رابط کاربری در شرکت‌های بزرگ",
+      "name": "استاد علی بابایی",
+      "rating": "(122)4.8",
+      "price": "128",
+      "unit2": "هزارتومان",
+      "time": "25 آبان 1402"
+    },
+    {
+      "id": "2",
+      "image1": "https://img.freepik.com/free-vector/gradient-top-view-laptop-background_52683-6291.jpg",
+      "title": "طراحی رابط کاربری در شرکت‌های بزرگ",
+      "name": "استاد علی بابایی",
+      "rating": "(122)4.8",
+      "price": "رایگان",
+      "discount": "190",
+      "unit": "هزارتومان",
+      "time": "25 آبان 1402"
+    },
+    {
+      "id": "3",
+      "image1": "https://static.vecteezy.com/system/resources/thumbnails/048/830/958/small_2x/modern-laptop-displaying-computer-code-on-screen-in-dark-room-setting-photo.jpeg",
+      "title": "طراحی رابط کاربری در شرکت‌های بزرگ",
+      "name": "استاد منا عزیزی",
+      "rating": "(122)4.8",
+      "price": "128",
+      "unit2": "هزارتومان",
+      "time": "25 آبان 1402"
+    },
+    {
+      "id": "4",
+      "image1": "https://static.vecteezy.com/system/resources/previews/048/830/531/non_2x/software-developer-writing-code-on-laptop-keyboard-at-night-photo.jpeg",
+      "title": "طراحی رابط کاربری در شرکت‌های بزرگ ",
+      "name": "استاد مرتضی اویسی",
+      "rating": "(182)3.8",
+      "price": "240",
+      "unit2": "هزارتومان",
+      "time": "25 آبان 1402"
+    }
+  ],
+  "Comments": [
+    {
+      "id": "1",
+      "name": "مهسا محمدی",
+      "name2": "مریم اسماعیلی",
+      "title": "برنامه نویس فرانت اند",
+      "title2": "برنامه نویس فرانت اند",
+      "image": "https://s3-alpha-sig.figma.com/img/67da/9fdd/d372b1b5b44ffef41eed6ceb810ddf8a?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ZtbgPu1XcPrkbLIseWNB4wXWbMBXqXRFAHl2pZNMSwTAwhNGApCoQ5sBlTIuTPuuwMMhmmWcpzOW0WYdbNBre~tR4xiGLzbbeXGTJOWfGJzoFkKvzTG0RaE9jCnIOchLHaCcaI6gkFQRMzW1NYtRnjNJBMsTHsUXBbxV98l4LWX-cBiH~v9wj5UFrBUk80zg6P-YUnm9RqO7qmL8OAgoB52GOAFq9KmjpWpNdzwJjiZ52t3lmnz0TbPLYeZoRH4tggKxK1dFOpd497rrMo8tRFCIYccrGDPT3Xv3uAeaM4d9RM4YxSxfow5Oi6WIRBj51h~DQTpn5sUw2Q3QK12ayw__",
+      "image2": "https://s3-alpha-sig.figma.com/img/d9dd/ce20/4792163ce745396135bdc5f320b012d7?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bgYinJVC~K4ldKwfHNk~ZAPYJyHfs905FcVQRwJfNSN7cROaqnwbESxBDPPqqySRN-iJE-aoBmq9FD0ENIbIfCl-U4k2301PRFG0uis8DMDdvdqsCY9u6PrXqOT1XcKApVrZ5avsdq-VWOUC9WB-0RrZS6Zn8MqSUPYzoIZiIcL~F~JD0uitAYWkqAa-KBujqTWHDW0GKs5EdeyUOkL9Ir1GFaPdE~li2-li2I5TIYnE8G7C2DdmcrB7NHM-GpxutkwB6XD4whMjDplyfQAcCVT-DvbV3NPJWgKlgmez-DXD~l1SPVRWURzZX-UpbYxlfQxzbRyFmCcadmob7YqOlw__",
+      "des": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان ترهستش.",
+      "des2": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان تر است."
+    },
+    {
+      "id": "2",
+      "name": "علی کاظمی‌راد",
+      "name2": "شهرام محمودی",
+      "title": "پروداکت دیزاین",
+      "title2": "برنامه نویس بک‌اند",
+      "image": "https://s3-alpha-sig.figma.com/img/ab41/a74a/ead9e7cb47a87ad793df9b09ed9d1ea5?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bCOxtlXhNd9h74Ff7lifnG9Ky0Xc4QUm8uiKfJ~oMAq37Ite96H3JdHjj3m5BShMqlPG7ev5m4b1dmEOVK5hcTH32lncFnVXBRW0zPXLgEqIbIIrlVcKycW7GBCK52rCrHxkDh6NI08VhHRrLu6GaQhXoL-G2oBb73jRSQopwbU5vX3oKCa8cJgvPitlv78IiHkG8C-fUNqINaev14HEZqzKxG2X72qaAZJEbWYQI4LD7uldwTraueV~pZeO6~OAht5C3m2rob02r-xy7x4OUToL0xKyaioQd2zY2RKEPsk1gV26hBfPy2NUQeB7CULZZ4j4rt71UItsk7fM1lJZeg__",
+      "image2": "https://img.freepik.com/free-photo/young-thoughtful-dark-skinned-researcher-wears-round-big-spectacles-keeps-finger-temple_273609-8638.jpg",
+      "des": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان تر است.",
+      "des2": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان تر است.."
+    },
+    {
+      "id": "3",
+      "name": "مهسا محمدی",
+      "name2": "مریم اسماعیلی",
+      "title": "برنامه نویس فرانت اند",
+      "title2": "برنامه نویس فرانت اند",
+      "image": "https://s3-alpha-sig.figma.com/img/67da/9fdd/d372b1b5b44ffef41eed6ceb810ddf8a?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ZtbgPu1XcPrkbLIseWNB4wXWbMBXqXRFAHl2pZNMSwTAwhNGApCoQ5sBlTIuTPuuwMMhmmWcpzOW0WYdbNBre~tR4xiGLzbbeXGTJOWfGJzoFkKvzTG0RaE9jCnIOchLHaCcaI6gkFQRMzW1NYtRnjNJBMsTHsUXBbxV98l4LWX-cBiH~v9wj5UFrBUk80zg6P-YUnm9RqO7qmL8OAgoB52GOAFq9KmjpWpNdzwJjiZ52t3lmnz0TbPLYeZoRH4tggKxK1dFOpd497rrMo8tRFCIYccrGDPT3Xv3uAeaM4d9RM4YxSxfow5Oi6WIRBj51h~DQTpn5sUw2Q3QK12ayw__",
+      "image2": "https://s3-alpha-sig.figma.com/img/d9dd/ce20/4792163ce745396135bdc5f320b012d7?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bgYinJVC~K4ldKwfHNk~ZAPYJyHfs905FcVQRwJfNSN7cROaqnwbESxBDPPqqySRN-iJE-aoBmq9FD0ENIbIfCl-U4k2301PRFG0uis8DMDdvdqsCY9u6PrXqOT1XcKApVrZ5avsdq-VWOUC9WB-0RrZS6Zn8MqSUPYzoIZiIcL~F~JD0uitAYWkqAa-KBujqTWHDW0GKs5EdeyUOkL9Ir1GFaPdE~li2-li2I5TIYnE8G7C2DdmcrB7NHM-GpxutkwB6XD4whMjDplyfQAcCVT-DvbV3NPJWgKlgmez-DXD~l1SPVRWURzZX-UpbYxlfQxzbRyFmCcadmob7YqOlw__",
+      "des": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان ترهستش.",
+      "des2": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان تر است."
+    },
+    {
+      "id": "4",
+      "name": "ساناز غلامی",
+      "name2": "مریم اسماعیلی",
+      "title": "برنامه نویس فرانت اند",
+      "title2": "برنامه نویس فرانت اند",
+      "image": "https://s3-alpha-sig.figma.com/img/30d4/a462/ea7b6e1428ffcb7ed5d646ca522e5a23?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=QfoFSoNgpkSZpYYgNvxcHlshn2~9zli5YVWxFnvuoxdClcATMdLEautNemRiSBg4DzZKCAVe7ZmJxOp90KCAgvsRMqnhE~CVtL1f7cAYK58CfB0EUusSW-h~PvwJNBvdgAtc628ZTya5Pgyo0-mDrwwlHHrMb-fZzYaFOrXLhAksyV1QGT7PwVtvjXvIoRfLVuXEEeFY8N0Is0ysYKXJfwZe49AEjJKij~kTELBTd10It1RDFoL8G75udqp6JvuArXsdFdox4kW-G5IhdzSf8F2is-zFrv5l9Ll0l7aS96mrxT2WfIzZzVZQHrhGdKtDqqiZdXB~dOFprXld6VKO7w__",
+      "image2": "https://s3-alpha-sig.figma.com/img/d9dd/ce20/4792163ce745396135bdc5f320b012d7?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bgYinJVC~K4ldKwfHNk~ZAPYJyHfs905FcVQRwJfNSN7cROaqnwbESxBDPPqqySRN-iJE-aoBmq9FD0ENIbIfCl-U4k2301PRFG0uis8DMDdvdqsCY9u6PrXqOT1XcKApVrZ5avsdq-VWOUC9WB-0RrZS6Zn8MqSUPYzoIZiIcL~F~JD0uitAYWkqAa-KBujqTWHDW0GKs5EdeyUOkL9Ir1GFaPdE~li2-li2I5TIYnE8G7C2DdmcrB7NHM-GpxutkwB6XD4whMjDplyfQAcCVT-DvbV3NPJWgKlgmez-DXD~l1SPVRWURzZX-UpbYxlfQxzbRyFmCcadmob7YqOlw__",
+      "des": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان ترهستش.",
+      "des2": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان تر است."
+    },
+    {
+      "id": "5",
+      "name": "مهسا محمدی",
+      "name2": "مریم اسماعیلی",
+      "title": "برنامه نویس فرانت اند",
+      "title2": "برنامه نویس فرانت اند",
+      "image": "https://s3-alpha-sig.figma.com/img/67da/9fdd/d372b1b5b44ffef41eed6ceb810ddf8a?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ZtbgPu1XcPrkbLIseWNB4wXWbMBXqXRFAHl2pZNMSwTAwhNGApCoQ5sBlTIuTPuuwMMhmmWcpzOW0WYdbNBre~tR4xiGLzbbeXGTJOWfGJzoFkKvzTG0RaE9jCnIOchLHaCcaI6gkFQRMzW1NYtRnjNJBMsTHsUXBbxV98l4LWX-cBiH~v9wj5UFrBUk80zg6P-YUnm9RqO7qmL8OAgoB52GOAFq9KmjpWpNdzwJjiZ52t3lmnz0TbPLYeZoRH4tggKxK1dFOpd497rrMo8tRFCIYccrGDPT3Xv3uAeaM4d9RM4YxSxfow5Oi6WIRBj51h~DQTpn5sUw2Q3QK12ayw__",
+      "image2": "https://s3-alpha-sig.figma.com/img/d9dd/ce20/4792163ce745396135bdc5f320b012d7?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bgYinJVC~K4ldKwfHNk~ZAPYJyHfs905FcVQRwJfNSN7cROaqnwbESxBDPPqqySRN-iJE-aoBmq9FD0ENIbIfCl-U4k2301PRFG0uis8DMDdvdqsCY9u6PrXqOT1XcKApVrZ5avsdq-VWOUC9WB-0RrZS6Zn8MqSUPYzoIZiIcL~F~JD0uitAYWkqAa-KBujqTWHDW0GKs5EdeyUOkL9Ir1GFaPdE~li2-li2I5TIYnE8G7C2DdmcrB7NHM-GpxutkwB6XD4whMjDplyfQAcCVT-DvbV3NPJWgKlgmez-DXD~l1SPVRWURzZX-UpbYxlfQxzbRyFmCcadmob7YqOlw__",
+      "des": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان ترهستش.",
+      "des2": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان تر است."
+    },
+    {
+      "id": "6",
+      "name": "مهسا محمدی",
+      "name2": "مریم اسماعیلی",
+      "title": "برنامه نویس فرانت اند",
+      "title2": "برنامه نویس فرانت اند",
+      "image": "https://s3-alpha-sig.figma.com/img/67da/9fdd/d372b1b5b44ffef41eed6ceb810ddf8a?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ZtbgPu1XcPrkbLIseWNB4wXWbMBXqXRFAHl2pZNMSwTAwhNGApCoQ5sBlTIuTPuuwMMhmmWcpzOW0WYdbNBre~tR4xiGLzbbeXGTJOWfGJzoFkKvzTG0RaE9jCnIOchLHaCcaI6gkFQRMzW1NYtRnjNJBMsTHsUXBbxV98l4LWX-cBiH~v9wj5UFrBUk80zg6P-YUnm9RqO7qmL8OAgoB52GOAFq9KmjpWpNdzwJjiZ52t3lmnz0TbPLYeZoRH4tggKxK1dFOpd497rrMo8tRFCIYccrGDPT3Xv3uAeaM4d9RM4YxSxfow5Oi6WIRBj51h~DQTpn5sUw2Q3QK12ayw__",
+      "image2": "https://s3-alpha-sig.figma.com/img/d9dd/ce20/4792163ce745396135bdc5f320b012d7?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bgYinJVC~K4ldKwfHNk~ZAPYJyHfs905FcVQRwJfNSN7cROaqnwbESxBDPPqqySRN-iJE-aoBmq9FD0ENIbIfCl-U4k2301PRFG0uis8DMDdvdqsCY9u6PrXqOT1XcKApVrZ5avsdq-VWOUC9WB-0RrZS6Zn8MqSUPYzoIZiIcL~F~JD0uitAYWkqAa-KBujqTWHDW0GKs5EdeyUOkL9Ir1GFaPdE~li2-li2I5TIYnE8G7C2DdmcrB7NHM-GpxutkwB6XD4whMjDplyfQAcCVT-DvbV3NPJWgKlgmez-DXD~l1SPVRWURzZX-UpbYxlfQxzbRyFmCcadmob7YqOlw__",
+      "des": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان ترهستش.",
+      "des2": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان تر است."
+    },
+    {
+      "id": "7",
+      "name": "علی کاظمی‌راد",
+      "name2": "شهرام محمودی",
+      "title": "پروداکت دیزاین",
+      "title2": "برنامه نویس بک‌اند",
+      "image": "https://s3-alpha-sig.figma.com/img/ab41/a74a/ead9e7cb47a87ad793df9b09ed9d1ea5?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bCOxtlXhNd9h74Ff7lifnG9Ky0Xc4QUm8uiKfJ~oMAq37Ite96H3JdHjj3m5BShMqlPG7ev5m4b1dmEOVK5hcTH32lncFnVXBRW0zPXLgEqIbIIrlVcKycW7GBCK52rCrHxkDh6NI08VhHRrLu6GaQhXoL-G2oBb73jRSQopwbU5vX3oKCa8cJgvPitlv78IiHkG8C-fUNqINaev14HEZqzKxG2X72qaAZJEbWYQI4LD7uldwTraueV~pZeO6~OAht5C3m2rob02r-xy7x4OUToL0xKyaioQd2zY2RKEPsk1gV26hBfPy2NUQeB7CULZZ4j4rt71UItsk7fM1lJZeg__",
+      "image2": "https://img.freepik.com/free-photo/young-thoughtful-dark-skinned-researcher-wears-round-big-spectacles-keeps-finger-temple_273609-8638.jpg",
+      "des": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان تر است.",
+      "des2": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان تر است.."
+    },
+    {
+      "id": "8",
+      "name": "مهسا محمدی",
+      "name2": "مریم اسماعیلی",
+      "title": "برنامه نویس فرانت اند",
+      "title2": "برنامه نویس فرانت اند",
+      "image": "https://s3-alpha-sig.figma.com/img/67da/9fdd/d372b1b5b44ffef41eed6ceb810ddf8a?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ZtbgPu1XcPrkbLIseWNB4wXWbMBXqXRFAHl2pZNMSwTAwhNGApCoQ5sBlTIuTPuuwMMhmmWcpzOW0WYdbNBre~tR4xiGLzbbeXGTJOWfGJzoFkKvzTG0RaE9jCnIOchLHaCcaI6gkFQRMzW1NYtRnjNJBMsTHsUXBbxV98l4LWX-cBiH~v9wj5UFrBUk80zg6P-YUnm9RqO7qmL8OAgoB52GOAFq9KmjpWpNdzwJjiZ52t3lmnz0TbPLYeZoRH4tggKxK1dFOpd497rrMo8tRFCIYccrGDPT3Xv3uAeaM4d9RM4YxSxfow5Oi6WIRBj51h~DQTpn5sUw2Q3QK12ayw__",
+      "image2": "https://s3-alpha-sig.figma.com/img/d9dd/ce20/4792163ce745396135bdc5f320b012d7?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bgYinJVC~K4ldKwfHNk~ZAPYJyHfs905FcVQRwJfNSN7cROaqnwbESxBDPPqqySRN-iJE-aoBmq9FD0ENIbIfCl-U4k2301PRFG0uis8DMDdvdqsCY9u6PrXqOT1XcKApVrZ5avsdq-VWOUC9WB-0RrZS6Zn8MqSUPYzoIZiIcL~F~JD0uitAYWkqAa-KBujqTWHDW0GKs5EdeyUOkL9Ir1GFaPdE~li2-li2I5TIYnE8G7C2DdmcrB7NHM-GpxutkwB6XD4whMjDplyfQAcCVT-DvbV3NPJWgKlgmez-DXD~l1SPVRWURzZX-UpbYxlfQxzbRyFmCcadmob7YqOlw__",
+      "des": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان ترهستش.",
+      "des2": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان تر است."
+    },
+    {
+      "id": "9",
+      "name": "ساناز غلامی",
+      "name2": "مریم اسماعیلی",
+      "title": "برنامه نویس فرانت اند",
+      "title2": "برنامه نویس فرانت اند",
+      "image": "https://s3-alpha-sig.figma.com/img/30d4/a462/ea7b6e1428ffcb7ed5d646ca522e5a23?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=QfoFSoNgpkSZpYYgNvxcHlshn2~9zli5YVWxFnvuoxdClcATMdLEautNemRiSBg4DzZKCAVe7ZmJxOp90KCAgvsRMqnhE~CVtL1f7cAYK58CfB0EUusSW-h~PvwJNBvdgAtc628ZTya5Pgyo0-mDrwwlHHrMb-fZzYaFOrXLhAksyV1QGT7PwVtvjXvIoRfLVuXEEeFY8N0Is0ysYKXJfwZe49AEjJKij~kTELBTd10It1RDFoL8G75udqp6JvuArXsdFdox4kW-G5IhdzSf8F2is-zFrv5l9Ll0l7aS96mrxT2WfIzZzVZQHrhGdKtDqqiZdXB~dOFprXld6VKO7w__",
+      "image2": "https://s3-alpha-sig.figma.com/img/d9dd/ce20/4792163ce745396135bdc5f320b012d7?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bgYinJVC~K4ldKwfHNk~ZAPYJyHfs905FcVQRwJfNSN7cROaqnwbESxBDPPqqySRN-iJE-aoBmq9FD0ENIbIfCl-U4k2301PRFG0uis8DMDdvdqsCY9u6PrXqOT1XcKApVrZ5avsdq-VWOUC9WB-0RrZS6Zn8MqSUPYzoIZiIcL~F~JD0uitAYWkqAa-KBujqTWHDW0GKs5EdeyUOkL9Ir1GFaPdE~li2-li2I5TIYnE8G7C2DdmcrB7NHM-GpxutkwB6XD4whMjDplyfQAcCVT-DvbV3NPJWgKlgmez-DXD~l1SPVRWURzZX-UpbYxlfQxzbRyFmCcadmob7YqOlw__",
+      "des": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان ترهستش.",
+      "des2": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان تر است."
+    },
+    {
+      "id": "10",
+      "name": "مهسا محمدی",
+      "name2": "مریم اسماعیلی",
+      "title": "برنامه نویس فرانت اند",
+      "title2": "برنامه نویس فرانت اند",
+      "image": "https://s3-alpha-sig.figma.com/img/67da/9fdd/d372b1b5b44ffef41eed6ceb810ddf8a?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ZtbgPu1XcPrkbLIseWNB4wXWbMBXqXRFAHl2pZNMSwTAwhNGApCoQ5sBlTIuTPuuwMMhmmWcpzOW0WYdbNBre~tR4xiGLzbbeXGTJOWfGJzoFkKvzTG0RaE9jCnIOchLHaCcaI6gkFQRMzW1NYtRnjNJBMsTHsUXBbxV98l4LWX-cBiH~v9wj5UFrBUk80zg6P-YUnm9RqO7qmL8OAgoB52GOAFq9KmjpWpNdzwJjiZ52t3lmnz0TbPLYeZoRH4tggKxK1dFOpd497rrMo8tRFCIYccrGDPT3Xv3uAeaM4d9RM4YxSxfow5Oi6WIRBj51h~DQTpn5sUw2Q3QK12ayw__",
+      "image2": "https://s3-alpha-sig.figma.com/img/d9dd/ce20/4792163ce745396135bdc5f320b012d7?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bgYinJVC~K4ldKwfHNk~ZAPYJyHfs905FcVQRwJfNSN7cROaqnwbESxBDPPqqySRN-iJE-aoBmq9FD0ENIbIfCl-U4k2301PRFG0uis8DMDdvdqsCY9u6PrXqOT1XcKApVrZ5avsdq-VWOUC9WB-0RrZS6Zn8MqSUPYzoIZiIcL~F~JD0uitAYWkqAa-KBujqTWHDW0GKs5EdeyUOkL9Ir1GFaPdE~li2-li2I5TIYnE8G7C2DdmcrB7NHM-GpxutkwB6XD4whMjDplyfQAcCVT-DvbV3NPJWgKlgmez-DXD~l1SPVRWURzZX-UpbYxlfQxzbRyFmCcadmob7YqOlw__",
+      "des": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان ترهستش.",
+      "des2": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان تر است."
+    },
+    {
+      "id": "11",
+      "name": "مهسا محمدی",
+      "name2": "مریم اسماعیلی",
+      "title": "برنامه نویس فرانت اند",
+      "title2": "برنامه نویس فرانت اند",
+      "image": "https://s3-alpha-sig.figma.com/img/67da/9fdd/d372b1b5b44ffef41eed6ceb810ddf8a?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ZtbgPu1XcPrkbLIseWNB4wXWbMBXqXRFAHl2pZNMSwTAwhNGApCoQ5sBlTIuTPuuwMMhmmWcpzOW0WYdbNBre~tR4xiGLzbbeXGTJOWfGJzoFkKvzTG0RaE9jCnIOchLHaCcaI6gkFQRMzW1NYtRnjNJBMsTHsUXBbxV98l4LWX-cBiH~v9wj5UFrBUk80zg6P-YUnm9RqO7qmL8OAgoB52GOAFq9KmjpWpNdzwJjiZ52t3lmnz0TbPLYeZoRH4tggKxK1dFOpd497rrMo8tRFCIYccrGDPT3Xv3uAeaM4d9RM4YxSxfow5Oi6WIRBj51h~DQTpn5sUw2Q3QK12ayw__",
+      "image2": "https://s3-alpha-sig.figma.com/img/d9dd/ce20/4792163ce745396135bdc5f320b012d7?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bgYinJVC~K4ldKwfHNk~ZAPYJyHfs905FcVQRwJfNSN7cROaqnwbESxBDPPqqySRN-iJE-aoBmq9FD0ENIbIfCl-U4k2301PRFG0uis8DMDdvdqsCY9u6PrXqOT1XcKApVrZ5avsdq-VWOUC9WB-0RrZS6Zn8MqSUPYzoIZiIcL~F~JD0uitAYWkqAa-KBujqTWHDW0GKs5EdeyUOkL9Ir1GFaPdE~li2-li2I5TIYnE8G7C2DdmcrB7NHM-GpxutkwB6XD4whMjDplyfQAcCVT-DvbV3NPJWgKlgmez-DXD~l1SPVRWURzZX-UpbYxlfQxzbRyFmCcadmob7YqOlw__",
+      "des": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان ترهستش.",
+      "des2": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان تر است."
+    },
+    {
+      "id": "12",
+      "name": "علی کاظمی‌راد",
+      "name2": "شهرام محمودی",
+      "title": "پروداکت دیزاین",
+      "title2": "برنامه نویس بک‌اند",
+      "image": "https://s3-alpha-sig.figma.com/img/ab41/a74a/ead9e7cb47a87ad793df9b09ed9d1ea5?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bCOxtlXhNd9h74Ff7lifnG9Ky0Xc4QUm8uiKfJ~oMAq37Ite96H3JdHjj3m5BShMqlPG7ev5m4b1dmEOVK5hcTH32lncFnVXBRW0zPXLgEqIbIIrlVcKycW7GBCK52rCrHxkDh6NI08VhHRrLu6GaQhXoL-G2oBb73jRSQopwbU5vX3oKCa8cJgvPitlv78IiHkG8C-fUNqINaev14HEZqzKxG2X72qaAZJEbWYQI4LD7uldwTraueV~pZeO6~OAht5C3m2rob02r-xy7x4OUToL0xKyaioQd2zY2RKEPsk1gV26hBfPy2NUQeB7CULZZ4j4rt71UItsk7fM1lJZeg__",
+      "image2": "https://img.freepik.com/free-photo/young-thoughtful-dark-skinned-researcher-wears-round-big-spectacles-keeps-finger-temple_273609-8638.jpg",
+      "des": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان تر است.",
+      "des2": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان تر است.."
+    },
+    {
+      "id": "13",
+      "name": "مهسا محمدی",
+      "name2": "مریم اسماعیلی",
+      "title": "برنامه نویس فرانت اند",
+      "title2": "برنامه نویس فرانت اند",
+      "image": "https://s3-alpha-sig.figma.com/img/67da/9fdd/d372b1b5b44ffef41eed6ceb810ddf8a?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ZtbgPu1XcPrkbLIseWNB4wXWbMBXqXRFAHl2pZNMSwTAwhNGApCoQ5sBlTIuTPuuwMMhmmWcpzOW0WYdbNBre~tR4xiGLzbbeXGTJOWfGJzoFkKvzTG0RaE9jCnIOchLHaCcaI6gkFQRMzW1NYtRnjNJBMsTHsUXBbxV98l4LWX-cBiH~v9wj5UFrBUk80zg6P-YUnm9RqO7qmL8OAgoB52GOAFq9KmjpWpNdzwJjiZ52t3lmnz0TbPLYeZoRH4tggKxK1dFOpd497rrMo8tRFCIYccrGDPT3Xv3uAeaM4d9RM4YxSxfow5Oi6WIRBj51h~DQTpn5sUw2Q3QK12ayw__",
+      "image2": "https://s3-alpha-sig.figma.com/img/d9dd/ce20/4792163ce745396135bdc5f320b012d7?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bgYinJVC~K4ldKwfHNk~ZAPYJyHfs905FcVQRwJfNSN7cROaqnwbESxBDPPqqySRN-iJE-aoBmq9FD0ENIbIfCl-U4k2301PRFG0uis8DMDdvdqsCY9u6PrXqOT1XcKApVrZ5avsdq-VWOUC9WB-0RrZS6Zn8MqSUPYzoIZiIcL~F~JD0uitAYWkqAa-KBujqTWHDW0GKs5EdeyUOkL9Ir1GFaPdE~li2-li2I5TIYnE8G7C2DdmcrB7NHM-GpxutkwB6XD4whMjDplyfQAcCVT-DvbV3NPJWgKlgmez-DXD~l1SPVRWURzZX-UpbYxlfQxzbRyFmCcadmob7YqOlw__",
+      "des": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان ترهستش.",
+      "des2": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان تر است."
+    },
+    {
+      "id": "14",
+      "name": "ساناز غلامی",
+      "name2": "مریم اسماعیلی",
+      "title": "برنامه نویس فرانت اند",
+      "title2": "برنامه نویس فرانت اند",
+      "image": "https://s3-alpha-sig.figma.com/img/30d4/a462/ea7b6e1428ffcb7ed5d646ca522e5a23?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=QfoFSoNgpkSZpYYgNvxcHlshn2~9zli5YVWxFnvuoxdClcATMdLEautNemRiSBg4DzZKCAVe7ZmJxOp90KCAgvsRMqnhE~CVtL1f7cAYK58CfB0EUusSW-h~PvwJNBvdgAtc628ZTya5Pgyo0-mDrwwlHHrMb-fZzYaFOrXLhAksyV1QGT7PwVtvjXvIoRfLVuXEEeFY8N0Is0ysYKXJfwZe49AEjJKij~kTELBTd10It1RDFoL8G75udqp6JvuArXsdFdox4kW-G5IhdzSf8F2is-zFrv5l9Ll0l7aS96mrxT2WfIzZzVZQHrhGdKtDqqiZdXB~dOFprXld6VKO7w__",
+      "image2": "https://s3-alpha-sig.figma.com/img/d9dd/ce20/4792163ce745396135bdc5f320b012d7?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bgYinJVC~K4ldKwfHNk~ZAPYJyHfs905FcVQRwJfNSN7cROaqnwbESxBDPPqqySRN-iJE-aoBmq9FD0ENIbIfCl-U4k2301PRFG0uis8DMDdvdqsCY9u6PrXqOT1XcKApVrZ5avsdq-VWOUC9WB-0RrZS6Zn8MqSUPYzoIZiIcL~F~JD0uitAYWkqAa-KBujqTWHDW0GKs5EdeyUOkL9Ir1GFaPdE~li2-li2I5TIYnE8G7C2DdmcrB7NHM-GpxutkwB6XD4whMjDplyfQAcCVT-DvbV3NPJWgKlgmez-DXD~l1SPVRWURzZX-UpbYxlfQxzbRyFmCcadmob7YqOlw__",
+      "des": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان ترهستش.",
+      "des2": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان تر است."
+    },
+    {
+      "id": "15",
+      "name": "مهسا محمدی",
+      "name2": "مریم اسماعیلی",
+      "title": "برنامه نویس فرانت اند",
+      "title2": "برنامه نویس فرانت اند",
+      "image": "https://s3-alpha-sig.figma.com/img/67da/9fdd/d372b1b5b44ffef41eed6ceb810ddf8a?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ZtbgPu1XcPrkbLIseWNB4wXWbMBXqXRFAHl2pZNMSwTAwhNGApCoQ5sBlTIuTPuuwMMhmmWcpzOW0WYdbNBre~tR4xiGLzbbeXGTJOWfGJzoFkKvzTG0RaE9jCnIOchLHaCcaI6gkFQRMzW1NYtRnjNJBMsTHsUXBbxV98l4LWX-cBiH~v9wj5UFrBUk80zg6P-YUnm9RqO7qmL8OAgoB52GOAFq9KmjpWpNdzwJjiZ52t3lmnz0TbPLYeZoRH4tggKxK1dFOpd497rrMo8tRFCIYccrGDPT3Xv3uAeaM4d9RM4YxSxfow5Oi6WIRBj51h~DQTpn5sUw2Q3QK12ayw__",
+      "image2": "https://s3-alpha-sig.figma.com/img/d9dd/ce20/4792163ce745396135bdc5f320b012d7?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bgYinJVC~K4ldKwfHNk~ZAPYJyHfs905FcVQRwJfNSN7cROaqnwbESxBDPPqqySRN-iJE-aoBmq9FD0ENIbIfCl-U4k2301PRFG0uis8DMDdvdqsCY9u6PrXqOT1XcKApVrZ5avsdq-VWOUC9WB-0RrZS6Zn8MqSUPYzoIZiIcL~F~JD0uitAYWkqAa-KBujqTWHDW0GKs5EdeyUOkL9Ir1GFaPdE~li2-li2I5TIYnE8G7C2DdmcrB7NHM-GpxutkwB6XD4whMjDplyfQAcCVT-DvbV3NPJWgKlgmez-DXD~l1SPVRWURzZX-UpbYxlfQxzbRyFmCcadmob7YqOlw__",
+      "des": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان ترهستش.",
+      "des2": "من همیشه به صدرا برای کمک به درک مطالعاتم اعتماد کرده ام. من همیشه می توانم روی او حساب کنم تا من را از طریق موضوعات دشوار عبور دهد. با صدرا یادگیری من بدون هیچ مانعی آسان تر است."
+    }
+  ],
+  "EventSort": [
+    {
+      "id": "1",
+      "image1": "https://s3-alpha-sig.figma.com/img/c85f/7575/5c79c4541c0413225dfbe0fa0c3be7cf?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=q7IC7Q0CGAsWQ0tNhiAX6HBnAy5vAR-xAs4RIc5tRKI8YKF7sS9J8iw8EJXvH0drgQG36vPuPMa6sKpksWHTl-XMIC54JAK-sv2ly-Q0vINgP19JOT55TTGjRVP5DJcSxQSUamWRqsj3yUYi443woOsoeisUvrY-A08LHNjwZErI0XMP9dsMOzDeZviaiFz2rstpoGyxB5U~9Srq3Ue~zkJYnUv0GqytZndeG3hQ7wVy-1KwSp2gpcn9xbGb9HfSAHde6dCcHHDL60AODa7WpHuxwmahRj4pCjnaGsrAxqndRqH9JFnU8dhtNf2m-gtv-hJO3sgejgKugsCfKREipw__",
+      "image2": "https://cdn1.vectorstock.com/i/1000x1000/57/15/work-coding-and-programming-on-a-laptop-vector-31045715.jpg",
+      "image3": "https://png.pngtree.com/thumb_back/fh260/background/20240610/pngtree-computer-of-a-programmer-with-lines-code-of-software-image_15746003.jpg",
+      "title": "نحوه طراحی دستی ایده‌ها",
+      "name": "استاد علی بابایی",
+      "rating": "(122)4.8",
+      "price": "128",
+      "time": "40 دقیقه"
+    },
+    {
+      "id": "2",
+      "image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInwp3KwXrDSLlYu5VB6A5wwEG-yblJD_EOw&s",
+      "image2": "https://cdn.mos.cms.futurecdn.net/x8oyLJtDJBPmL59WUoa36C.jpg",
+      "image3": "https://static.vecteezy.com/system/resources/thumbnails/051/261/577/small_2x/person-coding-on-a-laptop-with-vibrant-programming-code-on-the-screen-photo.jpeg",
+      "title": "نحوه طراحی دستی ایده‌ها",
+      "name": "استاد علی بابایی",
+      "rating": "(122)4.8",
+      "price": "128",
+      "time": "40 دقیقه"
+    },
+    {
+      "id": "3",
+      "image1": "https://imageio.forbes.com/specials-images/imageserve/64c968242b70c1a42269db63/Arcane/960x0.png?format=png&width=960",
+      "image2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BzpMj8bdsF_R8jDiQPKj1FAN8epfWa6lzA&s",
+      "image3": "https://lumiere-a.akamaihd.net/v1/images/p_toystory4_19639_917ad716.jpeg?region=0%2C0%2C540%2C810",
+      "title": "نحوه طراحی انیمیشن ",
+      "name": "استاد منا عزیزی",
+      "rating": "(122)4.8",
+      "price": "128",
+      "time": "40 دقیقه"
+    },
+    {
+      "id": "4",
+      "image1": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png",
+      "image2": "https://media.geeksforgeeks.org/wp-content/uploads/20240703165023/Frontend-Development-(1).webp",
+      "image3": "https://sanjeman.com/wp-content/uploads/2019/04/front-end-skills.png",
+      "title": "نحوه طراحی فرانت اند ",
+      "name": "استاد مرتضی اویسی",
+      "rating": "(182)3.8",
+      "price": "240",
+      "time": "20 دقیقه"
+    },
+    {
+      "id": "5",
+      "image1": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/8177834/cover_image/optimized/Leverage%20LLMs%20for%20Coding-Blog-0cdfd3ae36e086935574c2ab341387ce.png",
+      "image2": "https://www.simplilearn.com/ice9/free_resources_article_thumb/How_to_Become_a_Back_End_Developer.jpg",
+      "image3": "https://mrcode.ir/wp-content/uploads/2019/04/php-series-mrcode.jpg.webp",
+      "title": "نحوه طراحی بک اند",
+      "name": "استاد علی بابایی",
+      "rating": "(142)4.5",
+      "price": "320",
+      "time": "50 دقیقه"
+    }
+  ],
+  "Anatomy": [
+    {
+      "id": "1",
+      "background": "https://s3-alpha-sig.figma.com/img/2e8d/4111/97159ea1e1ac482a5586d8787c4b0001?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Zl9gCB5yCAWKoCOlCZkHlD62u1LVlVsKdo6hW5pMLDpd8xfK47hHmg5UYKHRQU4YkNl~VQsl8eZHBeNYst76d9gUR1nMuMxHn7mymwH2842CLzphK9enHzfXE53e6dZ76ddGH0F4SPj90lIcmh6AI1jNCzX~bHwAkTOzCWC5pHEeYZA2pp0OFEHuvjE0SHQKbQ7gnyAz7NBzIsNzpFb9KQbmiUDf4ULKXq6RhIt0oG4tGbPTxrtiCJAH-7Lexudc6-50jjcbUVCUrLm5S~44JX71rbS4lKR-Ak0XPFerXl59qMSKY4Pi8uuStsAddF69es15G3NFHcseHHAwq-5tpQ__",
+      "image1": "https://s3-alpha-sig.figma.com/img/824d/7d6e/fc640d187afe768f1d9df35c95e65dbd?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=lrOnQFNpzoZ3gNn~TcWcguiJ3itzFveuJaiOhYcBSSYwg2Ij6JFvCKpFDpMGw0oec4av6S3xqGNtGUnm0MAjeEcCXsOAkm8Bonv7ho5h4c4P372I5yE9DLcoeFXeJu1QFxSZz-IPGUDFMrtG6LR6u9J017~ACH1duTDaNlVZYcuc-pgi753aYScezyhpe4Eig5tb1evhJAAfYSZlL4F7euj8HxJh2bDWeD8m3HDHhmDkwhBuN1tHK1dwIvc-Re58u3JyPqhq0~rgZLqj-u--sBJGEqaNb3pVZzGLOjCxRPILREuvfPLa9oG4ZeD-mLDY1-y0AUJu0TVUumiL-QTRbQ__",
+      "title": "آناتومی یک صفحه وب و عناصر اساسی آن",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "name": "حسین اشرفی پور",
+      "Hashtag1": "#رابط_کاربری",
+      "Hashtag2": "#تکنولوژی",
+      "profession": "طراح رابط کاربری و تجربه کاربر"
+    },
+    {
+      "id": "2",
+      "background": "https://s3-alpha-sig.figma.com/img/9f02/cb36/733577441ceddf108b2c6ba4b194b026?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=BOeRq5E-sM4OX5ykhJQqUYSuC8GLkHPi1dvhQMuLPolB84u49quxalfKLRlEwSu87i4--L~W5hKUPM~SvcIlGm9LPnXQDD98MspltMF3SkzPc4h3I0l4TTjigi~Ivo6bEuObjUmYJXJPOedxKnKubOEc-T7hWVKCdRSCZvhdyvMKzLBNnKC-G~frXWca-jybyqqbq8yoFm7iaheB1MJckR2ed8UGXfIE-4zM6IQ1GvEtRKxm3XrOjUf~tcxEwNckfBLMUtkxslF-YZFuNKwlLtObWEP2E5kr7TH2IlMl2yAZiPbUEI6nWEJrPeCKp1NTmTdym7cWfsdy6IyoObs34Q__",
+      "image1": "https://cdn8.dissolve.com/p/D2115_193_256/D2115_193_256_1200.jpg",
+      "title": "آناتومی دو صفحه وب و عناصر اساسی آن",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "Hashtag1": "#رابط_کاربری",
+      "Hashtag2": "#تکنولوژی",
+      "name": "حسین اشرفی پور",
+      "profession": "طراح رابط کاربری و تجربه کاربر"
+    },
+    {
+      "id": "3",
+      "background": "https://s3-alpha-sig.figma.com/img/2cce/a563/a7cd06782d54cc5dd625e5ff9bf0d569?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=hAZCPq~NoRaLV0ESurur-V8ViHlSgzwCWa6BGsqoo2O~oVXWa5KTvr2EP-mhNjZbHnByYkJ4IDdexR0aK-p-uwKQeSCQnmOLRkv~ZCkMlP05V7vP7An9j0FOHNIa72-UuufBykHRyZ5u4CTf8roleFuh2V5wIDWuhSh79XkFrG~nW2vS9m6kpr2s0X-8AIv0k5qupSBxHpHgxFiG~jZiVwXEHA7raSrvkcUuTIwK8C0~NzXQGrmJp6QYPITquLEahd~x6JsgZg2PDTF-I11aEEDXnWSvxIjpMg8rhvSANWR271YEW7odjfTCyq1nPn54PsgHuYPvcEgF0N3iyUIBnA__",
+      "image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMg9S7Cj2ORkWuJsoenEkw7gqBR3FAkuWCfQ&s",
+      "title": "آناتومی سه صفحه وب و عناصر اساسی آن",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "Hashtag1": "#کامپیوترها",
+      "Hashtag2": "#بازی",
+      "name": "حسین اشرفی پور",
+      "profession": "طراح رابط کاربری و تجربه کاربر"
+    },
+    {
+      "id": "4",
+      "background": "https://s3-alpha-sig.figma.com/img/4753/9039/3ffd144d1e3a275b1bed6f5402ce1b20?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=tQq0pVU0HLt70j6kRDrkGZilY7rMvRceQs-dtWmSrRRLMq3JR7-jvGy1q9aJbdZrBp6XV-PheTp1RCyqGi5zMSxb-zTzuo3-wgQULii~YJcTakeO5h--SyUd-SfgjNoqlhGn3cdJ6IjdJXyQZUnx~86YHQs8Oco3ICFSg3yaB3it-KlZ~zLbiy9U70UL5vmN4vfluR0oaIHTHVQYyxx8YYVSVoEVNVrClvwDxydFuWjCNsL14rl9GT5FSVrggfBTdFtGHEoTw2HrFRR-6TB0EkSCGtpO44ifOPQvdv8QY5xUKjMj~yZ0y77uN527a85ZIA7THUCSNpWnpFLHHqRO8g__",
+      "image1": "https://cdn8.dissolve.com/p/D2115_193_256/D2115_193_256_1200.jpg",
+      "title": "آناتومی چهار صفحه وب و عناصر اساسی آن",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "Hashtag1": "#رابط_کاربری",
+      "Hashtag2": "#تکنولوژی",
+      "name": "حسین اشرفی پور",
+      "profession": "طراح رابط کاربری و تجربه کاربر"
+    },
+    {
+      "id": "5",
+      "background": "https://s3-alpha-sig.figma.com/img/7ad3/15b4/f797f0e0f3a341b0a4ef54457de7fa0f?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Z1k2rWqHLt9eEQ8ZN95k4P2ndGB93eMsmRUrfE0sNv7XvLvNjSH9Qs-EiyW8duNycAKaJ5aISrCJH-lnYVnEx5CN1dqHb09Mlvy8mnFfWZs2pKn-E3YAzJEK-LX6pHQK5sNrAYePZl59Xo4G5mlh1vfsoFigub8ZJnW6ZFRZnZEE-gHlr2CPacC6oK2ucQvlvwi6~dTwZ8WVaVWwadJrv3T95bWpSZgAGBH2YbNlq8o8GA6Ae-1Rd999CkvgM4qRYLHgKdJuqrvOwwILbKGtsUDmDmaCl40AweIxxo4~4lArZjTVaE2VpBPfQA1y0frla4iZszX3xpU6VB0w0ro5bw__",
+      "image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMg9S7Cj2ORkWuJsoenEkw7gqBR3FAkuWCfQ&s",
+      "title": "آناتومی پنج صفحه وب و عناصر اساسی آن",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "Hashtag1": "#کامپیوترها",
+      "Hashtag2": "#بازی",
+      "name": "حسین اشرفی پور",
+      "profession": "طراح رابط کاربری و تجربه کاربر"
+    },
+    {
+      "id": "6",
+      "background": "https://s3-alpha-sig.figma.com/img/8b15/9171/aec31b48b454b3933989528c83e37a99?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=iOMYEXCgbiQrmaRe53bjNnpEjnC4PgdW91AmftAnxO34LWoPLRTlIs4M1c4P6Ca2r1~O0fR40F-zSdXeOCM3tdJo6KzJBG9FfSSjQRKfYgcZq-8aiMiqc41cn3j0CJ0AkFx798DwVWyFz-S9gsBnJ3kZ-HG44OpqEFcNbjylyGH80-P~NvMQeYgkUJmGP1Rs33Y8~VyM9BzheDXuXrXa4dyEF3Tuxw6tY6AR9EqUS5-5c93gN-8qzy3hl2ZnB5dN3XSd0Cct5mUc8IftNwOcCnR73xBqvTYSk~DpT21RUkhthuHmRdjWvtstsYUt~Dz0olGjF-vY4krHk5DQM2X28A__",
+      "image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMg9S7Cj2ORkWuJsoenEkw7gqBR3FAkuWCfQ&s",
+      "title": "آناتومی شش صفحه وب و عناصر اساسی آن",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "Hashtag1": "#رابط_کاربری",
+      "Hashtag2": "#تکنولوژی",
+      "name": "حسین اشرفی پور",
+      "profession": "طراح رابط کاربری و تجربه کاربر"
+    },
+    {
+      "id": "7",
+      "background": "https://s3-alpha-sig.figma.com/img/2e7a/339a/0d18c56f81997eb32e7ccea5b9e4f532?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=j1pJb4HbgVMgWkATKabpOXNi6SGF~ZtzghqfC5TGKxmhiE3-crcWuQFe22ZlFFM7H8bskBRZh8eVG2EkNu0z7zf7Je2Z1idekE-5Bb-ZNfJUvr8C2hKhjLZCUMXb2-ZtIpOTf2P--GKmjGmjc5joRPkuRF57xLiYxs~7~8Wqc-qcolYYdm9n6D1qKBN03UG3h2THem-tkwbXW-w0-ZTONYmK8NRJBnaJ8RqAeS65MtcSlFQDbpc5V~dkbMA89sfs27qLOM-348z-ZSAAJ6fEXvcrI65tGJ-2jEeP6L8LHl0RVXfS65WGUgG6T1HBcBK592xnRiz7l~xrszGGvS~CdQ__",
+      "image1": "https://s3-alpha-sig.figma.com/img/824d/7d6e/fc640d187afe768f1d9df35c95e65dbd?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=lrOnQFNpzoZ3gNn~TcWcguiJ3itzFveuJaiOhYcBSSYwg2Ij6JFvCKpFDpMGw0oec4av6S3xqGNtGUnm0MAjeEcCXsOAkm8Bonv7ho5h4c4P372I5yE9DLcoeFXeJu1QFxSZz-IPGUDFMrtG6LR6u9J017~ACH1duTDaNlVZYcuc-pgi753aYScezyhpe4Eig5tb1evhJAAfYSZlL4F7euj8HxJh2bDWeD8m3HDHhmDkwhBuN1tHK1dwIvc-Re58u3JyPqhq0~rgZLqj-u--sBJGEqaNb3pVZzGLOjCxRPILREuvfPLa9oG4ZeD-mLDY1-y0AUJu0TVUumiL-QTRbQ__",
+      "title": "آناتومی هفت صفحه وب و عناصر اساسی آن",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "Hashtag1": "#کامپیوترها",
+      "Hashtag2": "#بازی",
+      "name": "حسین اشرفی پور",
+      "profession": "طراح رابط کاربری و تجربه کاربر"
+    },
+    {
+      "id": "8",
+      "background": "https://s3-alpha-sig.figma.com/img/0e0e/4a78/a7172726e512a29c932fbcf17ad02f45?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=csUQ7InVlvfnQf06sJNfLuYMbw9QsrFOj5fBwUVc0gFhzyuuP9WMUrthRYk~bLI5KGTJwU~O3xs88T4KGI~l~2QPfoEbZ70vAfAFegeaXkYxLHE3FFz5Q1D6NwvEwcLQTZ-mWZxHMS0-qb4IAFhGiTtOBr1HVB2tTageUVFSrroNVph9T-oLYYnPvaPlbPQNXOrYU8ZKV4x-tgUzQXGhtZGuxkRWB0lZfoBgBsta8Yv2pNO2WNy9fJ92Y9kLX9GOk-JupyRo3pCbRVseUfVV3A2M6qt0s3dGLA7NfmyrUbwliDs-s5YhcndVlSrehMpA~13G6Fweb7rgrog0TLRcpg__",
+      "image1": "https://cdn8.dissolve.com/p/D2115_193_256/D2115_193_256_1200.jpg",
+      "title": "آناتومی هشت صفحه وب و عناصر اساسی آن",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "Hashtag1": "#طراحی_گرافیک",
+      "Hashtag2": "#یادگیری_ماشین",
+      "name": "حسین اشرفی پور",
+      "profession": "طراح رابط کاربری و تجربه کاربر"
+    },
+    {
+      "id": "9",
+      "background": "https://s3-alpha-sig.figma.com/img/a464/31ad/9faad1c42395e7fed766b178f3fb7358?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=k3TIVlLwGvn6DvnY5SoDiHkJKw-S8B4Qrj7bgQsHmVFAuAn5aBitqvwha5g1SSWi2m4GdSwg1BB~aD3Ib7WLiySux5KUTB9nGmyHj-4i1xGJJA1KnacuoEY-JPbnWfAfHtL9BSkkARvYUUtFtD5GTDeWeRWuMKPww1Yl6RPX~ICGZIPs92W9OYFNJs51QKIyFylIPNptm4y3M8YZhHYCExTUoj8gOaWzsnv6pNCgI~T4TccrNrll9zIdsnF6aIZnx-71CJteVtr9dH8tcRyHGZEYf00EZMsRjf8nVEkIuX736BPxrz2Laur1~REf2RqnMo0xSMlq1KDP~6LNAgzFug__",
+      "image1": "https://cdn8.dissolve.com/p/D2115_193_256/D2115_193_256_1200.jpg",
+      "title": "آناتومی نه صفحه وب و عناصر اساسی آن",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "Hashtag1": "#طراحی_گرافیک",
+      "Hashtag2": "#یادگیری_ماشین",
+      "name": "حسین اشرفی پور",
+      "profession": "طراح رابط کاربری و تجربه کاربر"
+    },
+    {
+      "id": "10",
+      "background": "https://s3-alpha-sig.figma.com/img/2e7a/339a/0d18c56f81997eb32e7ccea5b9e4f532?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=j1pJb4HbgVMgWkATKabpOXNi6SGF~ZtzghqfC5TGKxmhiE3-crcWuQFe22ZlFFM7H8bskBRZh8eVG2EkNu0z7zf7Je2Z1idekE-5Bb-ZNfJUvr8C2hKhjLZCUMXb2-ZtIpOTf2P--GKmjGmjc5joRPkuRF57xLiYxs~7~8Wqc-qcolYYdm9n6D1qKBN03UG3h2THem-tkwbXW-w0-ZTONYmK8NRJBnaJ8RqAeS65MtcSlFQDbpc5V~dkbMA89sfs27qLOM-348z-ZSAAJ6fEXvcrI65tGJ-2jEeP6L8LHl0RVXfS65WGUgG6T1HBcBK592xnRiz7l~xrszGGvS~CdQ__",
+      "image1": "https://s3-alpha-sig.figma.com/img/824d/7d6e/fc640d187afe768f1d9df35c95e65dbd?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=lrOnQFNpzoZ3gNn~TcWcguiJ3itzFveuJaiOhYcBSSYwg2Ij6JFvCKpFDpMGw0oec4av6S3xqGNtGUnm0MAjeEcCXsOAkm8Bonv7ho5h4c4P372I5yE9DLcoeFXeJu1QFxSZz-IPGUDFMrtG6LR6u9J017~ACH1duTDaNlVZYcuc-pgi753aYScezyhpe4Eig5tb1evhJAAfYSZlL4F7euj8HxJh2bDWeD8m3HDHhmDkwhBuN1tHK1dwIvc-Re58u3JyPqhq0~rgZLqj-u--sBJGEqaNb3pVZzGLOjCxRPILREuvfPLa9oG4ZeD-mLDY1-y0AUJu0TVUumiL-QTRbQ__",
+      "title": "آناتومی هفت صفحه وب و عناصر اساسی آن",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "Hashtag1": "#طراحی_گرافیک",
+      "Hashtag2": "#یادگیری_ماشین",
+      "name": "حسین اشرفی پور",
+      "profession": "طراح رابط کاربری و تجربه کاربر"
+    },
+    {
+      "id": "11",
+      "background": "https://s3-alpha-sig.figma.com/img/7ad3/15b4/f797f0e0f3a341b0a4ef54457de7fa0f?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Z1k2rWqHLt9eEQ8ZN95k4P2ndGB93eMsmRUrfE0sNv7XvLvNjSH9Qs-EiyW8duNycAKaJ5aISrCJH-lnYVnEx5CN1dqHb09Mlvy8mnFfWZs2pKn-E3YAzJEK-LX6pHQK5sNrAYePZl59Xo4G5mlh1vfsoFigub8ZJnW6ZFRZnZEE-gHlr2CPacC6oK2ucQvlvwi6~dTwZ8WVaVWwadJrv3T95bWpSZgAGBH2YbNlq8o8GA6Ae-1Rd999CkvgM4qRYLHgKdJuqrvOwwILbKGtsUDmDmaCl40AweIxxo4~4lArZjTVaE2VpBPfQA1y0frla4iZszX3xpU6VB0w0ro5bw__",
+      "image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMg9S7Cj2ORkWuJsoenEkw7gqBR3FAkuWCfQ&s",
+      "title": "آناتومی پنج صفحه وب و عناصر اساسی آن",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "Hashtag1": "#طراحی_گرافیک",
+      "Hashtag2": "#یادگیری_ماشین",
+      "name": "حسین اشرفی پور",
+      "profession": "طراح رابط کاربری و تجربه کاربر"
+    },
+    {
+      "id": "12",
+      "background": "https://s3-alpha-sig.figma.com/img/8b15/9171/aec31b48b454b3933989528c83e37a99?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=iOMYEXCgbiQrmaRe53bjNnpEjnC4PgdW91AmftAnxO34LWoPLRTlIs4M1c4P6Ca2r1~O0fR40F-zSdXeOCM3tdJo6KzJBG9FfSSjQRKfYgcZq-8aiMiqc41cn3j0CJ0AkFx798DwVWyFz-S9gsBnJ3kZ-HG44OpqEFcNbjylyGH80-P~NvMQeYgkUJmGP1Rs33Y8~VyM9BzheDXuXrXa4dyEF3Tuxw6tY6AR9EqUS5-5c93gN-8qzy3hl2ZnB5dN3XSd0Cct5mUc8IftNwOcCnR73xBqvTYSk~DpT21RUkhthuHmRdjWvtstsYUt~Dz0olGjF-vY4krHk5DQM2X28A__",
+      "image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMg9S7Cj2ORkWuJsoenEkw7gqBR3FAkuWCfQ&s",
+      "title": "آناتومی شش صفحه وب و عناصر اساسی آن",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "Hashtag1": "#طراحی_گرافیک",
+      "Hashtag2": "#یادگیری_ماشین",
+      "name": "حسین اشرفی پور",
+      "profession": "طراح رابط کاربری و تجربه کاربر"
+    }
+  ],
+  "Posts": [
+    {
+      "id": "1",
+      "background": "https://s3-alpha-sig.figma.com/img/2e8d/4111/97159ea1e1ac482a5586d8787c4b0001?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Zl9gCB5yCAWKoCOlCZkHlD62u1LVlVsKdo6hW5pMLDpd8xfK47hHmg5UYKHRQU4YkNl~VQsl8eZHBeNYst76d9gUR1nMuMxHn7mymwH2842CLzphK9enHzfXE53e6dZ76ddGH0F4SPj90lIcmh6AI1jNCzX~bHwAkTOzCWC5pHEeYZA2pp0OFEHuvjE0SHQKbQ7gnyAz7NBzIsNzpFb9KQbmiUDf4ULKXq6RhIt0oG4tGbPTxrtiCJAH-7Lexudc6-50jjcbUVCUrLm5S~44JX71rbS4lKR-Ak0XPFerXl59qMSKY4Pi8uuStsAddF69es15G3NFHcseHHAwq-5tpQ__",
+      "image1": "https://s3-alpha-sig.figma.com/img/824d/7d6e/fc640d187afe768f1d9df35c95e65dbd?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=lrOnQFNpzoZ3gNn~TcWcguiJ3itzFveuJaiOhYcBSSYwg2Ij6JFvCKpFDpMGw0oec4av6S3xqGNtGUnm0MAjeEcCXsOAkm8Bonv7ho5h4c4P372I5yE9DLcoeFXeJu1QFxSZz-IPGUDFMrtG6LR6u9J017~ACH1duTDaNlVZYcuc-pgi753aYScezyhpe4Eig5tb1evhJAAfYSZlL4F7euj8HxJh2bDWeD8m3HDHhmDkwhBuN1tHK1dwIvc-Re58u3JyPqhq0~rgZLqj-u--sBJGEqaNb3pVZzGLOjCxRPILREuvfPLa9oG4ZeD-mLDY1-y0AUJu0TVUumiL-QTRbQ__",
+      "title": "آناتومی یک صفحه وب و عناصر اساسی آن",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "name": "حسین اشرفی پور",
+      "Hashtag1": "#رابط_کاربری",
+      "Hashtag2": "#تکنولوژی",
+      "profession": "طراح رابط کاربری و تجربه کاربر"
+    },
+    {
+      "id": "2",
+      "background": "https://s3-alpha-sig.figma.com/img/9f02/cb36/733577441ceddf108b2c6ba4b194b026?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=BOeRq5E-sM4OX5ykhJQqUYSuC8GLkHPi1dvhQMuLPolB84u49quxalfKLRlEwSu87i4--L~W5hKUPM~SvcIlGm9LPnXQDD98MspltMF3SkzPc4h3I0l4TTjigi~Ivo6bEuObjUmYJXJPOedxKnKubOEc-T7hWVKCdRSCZvhdyvMKzLBNnKC-G~frXWca-jybyqqbq8yoFm7iaheB1MJckR2ed8UGXfIE-4zM6IQ1GvEtRKxm3XrOjUf~tcxEwNckfBLMUtkxslF-YZFuNKwlLtObWEP2E5kr7TH2IlMl2yAZiPbUEI6nWEJrPeCKp1NTmTdym7cWfsdy6IyoObs34Q__",
+      "image1": "https://cdn8.dissolve.com/p/D2115_193_256/D2115_193_256_1200.jpg",
+      "title": "آناتومی دو صفحه وب و عناصر اساسی آن",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "Hashtag1": "#رابط_کاربری",
+      "Hashtag2": "#تکنولوژی",
+      "name": "حسین اشرفی پور",
+      "profession": "طراح رابط کاربری و تجربه کاربر"
+    },
+    {
+      "id": "3",
+      "background": "https://s3-alpha-sig.figma.com/img/2cce/a563/a7cd06782d54cc5dd625e5ff9bf0d569?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=hAZCPq~NoRaLV0ESurur-V8ViHlSgzwCWa6BGsqoo2O~oVXWa5KTvr2EP-mhNjZbHnByYkJ4IDdexR0aK-p-uwKQeSCQnmOLRkv~ZCkMlP05V7vP7An9j0FOHNIa72-UuufBykHRyZ5u4CTf8roleFuh2V5wIDWuhSh79XkFrG~nW2vS9m6kpr2s0X-8AIv0k5qupSBxHpHgxFiG~jZiVwXEHA7raSrvkcUuTIwK8C0~NzXQGrmJp6QYPITquLEahd~x6JsgZg2PDTF-I11aEEDXnWSvxIjpMg8rhvSANWR271YEW7odjfTCyq1nPn54PsgHuYPvcEgF0N3iyUIBnA__",
+      "image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMg9S7Cj2ORkWuJsoenEkw7gqBR3FAkuWCfQ&s",
+      "title": "آناتومی سه صفحه وب و عناصر اساسی آن",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "Hashtag1": "#کامپیوترها",
+      "Hashtag2": "#بازی",
+      "name": "حسین اشرفی پور",
+      "profession": "طراح رابط کاربری و تجربه کاربر"
+    }
+  ],
+  "Masonary": [
+    {
+      "id": "1",
+      "image": "https://s3-alpha-sig.figma.com/img/f330/d70f/e897c4805aa268177711447cafb2097e?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=C0uC6fGOvDWwbDzZaTA0LVX~VPOqKD1oUYis6heF0YK6c0tSnS2DF3eR3mWqVgHDcs1MtCdUqlMgOYrxoy7ohDoxD6~4YXyfS~~i89zndffGd1Oge-EVbfuM3mACwCRKm9pb6i5z3iOIDZ0zzTB74BfZVMHO6HZsEU-81bjEuXB9m3rN2pgiYftntzGfoIYw7Gukr6sEoDD5jM7wZc59nlaNAHY68yyRPZP3Cs8MGHxCEcPAywc4RZulQylgVeWHEvCCMrQHtJ-oK7gn2EWlChqCFXjTX3kmPy9eXIaG45RvlH4DMh6Hm68A2HbFvs2TApMyR8e2TQcEwLHXtyBqXQ__",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "profile": "https://s3-alpha-sig.figma.com/img/824d/7d6e/fc640d187afe768f1d9df35c95e65dbd?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=lrOnQFNpzoZ3gNn~TcWcguiJ3itzFveuJaiOhYcBSSYwg2Ij6JFvCKpFDpMGw0oec4av6S3xqGNtGUnm0MAjeEcCXsOAkm8Bonv7ho5h4c4P372I5yE9DLcoeFXeJu1QFxSZz-IPGUDFMrtG6LR6u9J017~ACH1duTDaNlVZYcuc-pgi753aYScezyhpe4Eig5tb1evhJAAfYSZlL4F7euj8HxJh2bDWeD8m3HDHhmDkwhBuN1tHK1dwIvc-Re58u3JyPqhq0~rgZLqj-u--sBJGEqaNb3pVZzGLOjCxRPILREuvfPLa9oG4ZeD-mLDY1-y0AUJu0TVUumiL-QTRbQ__",
+      "profession": "طراح رابط کاربری و تجربه کاربر",
+      "name": "حسین اشرفی پور",
+      "video": "",
+      "title": "",
+      "sub": "",
+      "deslong": "",
+      "height": 560,
+      "date": "۱۴۰۲/۰۸/۲۸"
+    },
+    {
+      "id": "2",
+      "image": "",
+      "des": "",
+      "profile": "",
+      "profession": "",
+      "name": "",
+      "video": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/NL0L5N5Rgimkt8edi/videoblocks-students-in-auditorium-listening-at-conference-or-presentation-workshop-master-class-notes-and-pens_see_lxfg2f__7ba0a12e3689bb0fc4a6030ece02cd43__P360.mp4",
+      "title": "سهیل فرهادی",
+      "sub": "Software Engineer",
+      "deslong": "",
+      "height": 251,
+      "date": ""
+    },
+    {
+      "id": "3",
+      "image": "https://s3-alpha-sig.figma.com/img/1694/2662/377d9906cc9ba7ac9c109fdaf3216259?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=emCLSMm4wMIXYidLzuPvrkOHRCx8Zx4lpQ1HZNRza5PBx2XTr6hd8UEnOYYEDosQKHOhmE~5ZDwQwL4HwbgCunezo0ZDApFy-Zz9K1rvYU4Esrj1tJdi11AzeZn175~A9Y0BGWXomV51tcXKkPOnm6BE7QXaCwGA-sqIOyOJLxOqoxt97Ox1bwvTS-YvNLWrZGt5U-TjJfjnU4uGYojhtHCvD5AM0S22P9ViaZfQhJ-iCsLWv8YH8c3i2cxjRC-6onSjvotXk~ljvg7--Wgrpf~Lp55NJ-NF~1kYbpFRiYuynwHqUtFamIDTccAfv7tfMf7lAmsLvZ6TFBFpgNyVcA__",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "profile": "https://s3-alpha-sig.figma.com/img/d7b7/48e8/a6617cd4db9dedd0fbf27c0b32ec8d8f?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=fVPbNzLbtYfLtCLnLHNMmAFJjsMdODPSGuCeA1H3b-acuBmCGY3S9kkJmQWKN8w1F3S2VjukTf3OBicJNSauuW1tKLam8Q4Ns8MdkBZkzzPwdIIHXcnr9rrrnuZT66l-sc8Xw14RjoVGhxzl-iDLbzfsuhGf~AN3FVOAAt5EqQ0isZylXeV6cSuS8AVmjPih0JoKndmsdECIyK0gVUu7rx-t-7y07oB9bWQDDX8vjpHuJbmrrUW5NVxEx3OexaVtaTgALY0nIyJQ5Geb3PnD-UTEtruOCwJkhd0AZXdeHWmW0iFMIEhQlF0NhNp5~TJMSQG~ccer8Pz8ecrdNgJ2kA__",
+      "profession": "طراح رابط کاربری و تجربه کاربر",
+      "name": "الناز شاکردوست",
+      "video": "",
+      "title": "",
+      "sub": "",
+      "deslong": "",
+      "height": 560,
+      "date": "۱۴۰۲/۰۸/۲۸"
+    },
+    {
+      "id": "4",
+      "image": "",
+      "des": "",
+      "profile": "https://s3-alpha-sig.figma.com/img/f6a6/5eb5/2387d5d9062beaa54b328195aa457846?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Sly1uJtBwALQdN7Zm-k9UgYQxqKiUUpMS0IeWOl2P7gCkCV9IJEUYIHd4w1shCYnIRCWQVzP76lLgHShqVydKPT-li0MGy3K0Zdh8Kd~BYHoXtSwEBnMnxb9mgh2lcxYSUg1mOJY1Wpsuu6DI0RckqSn-JYe480c9kJBKoHElu51jbpgbxM6AWBj~Sd33nQiX2KpdEiW23KJAnCV5dGHKYg4kQ5F0RLniOD6lgW2ex-dgJ~lbu2GT3wAOa8RkaQZ32MJIBt0vERpSiL4s9AKMzYAxlJ8~NmsEk8N2u~S-mbX8-FhLVYeQlA1AFVQ6SeFJnYaIt9ersNWKCB6Z1U7HA__",
+      "profession": "طراح رابط کاربری و تجربه کاربر",
+      "name": "شراره میهن دوست",
+      "video": "",
+      "title": "",
+      "sub": "",
+      "deslong": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "height": 320,
+      "date": "۱۴۰۲/۰۸/۲۸"
+    },
+    {
+      "id": "5",
+      "image": "",
+      "des": "",
+      "profile": "https://s3-alpha-sig.figma.com/img/f6a6/5eb5/2387d5d9062beaa54b328195aa457846?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Sly1uJtBwALQdN7Zm-k9UgYQxqKiUUpMS0IeWOl2P7gCkCV9IJEUYIHd4w1shCYnIRCWQVzP76lLgHShqVydKPT-li0MGy3K0Zdh8Kd~BYHoXtSwEBnMnxb9mgh2lcxYSUg1mOJY1Wpsuu6DI0RckqSn-JYe480c9kJBKoHElu51jbpgbxM6AWBj~Sd33nQiX2KpdEiW23KJAnCV5dGHKYg4kQ5F0RLniOD6lgW2ex-dgJ~lbu2GT3wAOa8RkaQZ32MJIBt0vERpSiL4s9AKMzYAxlJ8~NmsEk8N2u~S-mbX8-FhLVYeQlA1AFVQ6SeFJnYaIt9ersNWKCB6Z1U7HA__",
+      "profession": "طراح رابط کاربری و تجربه کاربر",
+      "name": "شراره میهن دوست",
+      "video": "",
+      "title": "",
+      "sub": "",
+      "deslong": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "height": 320,
+      "date": "۱۴۰۲/۰۸/۲۸"
+    },
+    {
+      "id": "6",
+      "image": "https://s3-alpha-sig.figma.com/img/02ae/2b9f/bc5edc999efcb546827c0942c6b56674?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=XndvaQo~5bJRB2ZACe0c1hN-HMOEUl1kkyUjhln5D3JkEC75d2Kg9CsAfcrggDNY~ayutDGAe3IbS2N9B7uwTtosXVPxNWxiaS5Aa88xjP4uoxr4R4FrrkOot-CFqqBwSj8ErhTyX-EIwqgB-6RsaxwWUefdyEDE0IMiL~Lep5qX-uMMb16gsLN4Qmf-L0-tUSU9a25flelqi388qqX5fRwrnMzkBcH5Uihx24e1bJxYU0RoeRpq47ct4ecTQnlX9Kff~E67PWflfq0xd1KG~ylocybVfXioUhTU2eRNUGp~gOHs-glaKeifgk2T1duht5~P8lXK8VtBLqEQEg5gdg__",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "profile": "https://s3-alpha-sig.figma.com/img/95b6/690f/bb002a4268529bd12f399392313401a1?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=hMJQKqt~dKfriRaZFH39d6sLtBplGwo~gygMe7ZmshB3mNJ-ZjCK3223T0FzJmw2jQH-APxNCxCEvw08vuWFhPxHWLHe6THYVqwbBJk1P0FO3WoJ1zrOGJV-Ro3IP9mKUJ6yVzeFlNEWSXY9UjjNpaM0eX7U-uEkAGC2Y-kWIuFc9VeP~obcHgYVxUMF3hiRhEoFBwMDvYlhqngkkH-3OuvobS0GustslO9YsiH4FiXAs0wN4BepB~Yk5qYTN5BwjWALqOzWHuxO72PvbvtaGxICOHmV0rF5ZWkxn-vrd3RcHhinbIV1~edfFtmh5u60sjDiEd98f9jgM04OJ-PCgw__",
+      "profession": "طراح رابط کاربری و تجربه کاربر",
+      "name": "الناز شاکردوست",
+      "video": "",
+      "title": "",
+      "sub": "",
+      "deslong": "",
+      "height": 560,
+      "date": "۱۴۰۲/۰۸/۲۸"
+    },
+    {
+      "id": "7",
+      "image": "",
+      "des": "",
+      "profile": "",
+      "profession": "",
+      "name": "",
+      "video": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/SoSbTwt3rk3ek8fe9/videoblocks-616dd7dbc4bc747457e1c630_s2_cudhsy__d02708c3bf431400bc8e42b70f272c59__P360.mp4",
+      "title": "زهرا فراهانی",
+      "sub": "Software Engineer",
+      "deslong": "",
+      "height": 251,
+      "date": ""
+    },
+    {
+      "id": "8",
+      "image": "https://s3-alpha-sig.figma.com/img/f330/d70f/e897c4805aa268177711447cafb2097e?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=C0uC6fGOvDWwbDzZaTA0LVX~VPOqKD1oUYis6heF0YK6c0tSnS2DF3eR3mWqVgHDcs1MtCdUqlMgOYrxoy7ohDoxD6~4YXyfS~~i89zndffGd1Oge-EVbfuM3mACwCRKm9pb6i5z3iOIDZ0zzTB74BfZVMHO6HZsEU-81bjEuXB9m3rN2pgiYftntzGfoIYw7Gukr6sEoDD5jM7wZc59nlaNAHY68yyRPZP3Cs8MGHxCEcPAywc4RZulQylgVeWHEvCCMrQHtJ-oK7gn2EWlChqCFXjTX3kmPy9eXIaG45RvlH4DMh6Hm68A2HbFvs2TApMyR8e2TQcEwLHXtyBqXQ__",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "profile": "https://s3-alpha-sig.figma.com/img/95b6/690f/bb002a4268529bd12f399392313401a1?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=hMJQKqt~dKfriRaZFH39d6sLtBplGwo~gygMe7ZmshB3mNJ-ZjCK3223T0FzJmw2jQH-APxNCxCEvw08vuWFhPxHWLHe6THYVqwbBJk1P0FO3WoJ1zrOGJV-Ro3IP9mKUJ6yVzeFlNEWSXY9UjjNpaM0eX7U-uEkAGC2Y-kWIuFc9VeP~obcHgYVxUMF3hiRhEoFBwMDvYlhqngkkH-3OuvobS0GustslO9YsiH4FiXAs0wN4BepB~Yk5qYTN5BwjWALqOzWHuxO72PvbvtaGxICOHmV0rF5ZWkxn-vrd3RcHhinbIV1~edfFtmh5u60sjDiEd98f9jgM04OJ-PCgw__",
+      "profession": "طراح رابط کاربری و تجربه کاربر",
+      "name": "الناز شاکردوست",
+      "video": "",
+      "title": "",
+      "sub": "",
+      "deslong": "",
+      "height": 560,
+      "date": "۱۴۰۲/۰۸/۲۸"
+    },
+    {
+      "id": "9",
+      "image": "",
+      "des": "",
+      "profile": "",
+      "profession": "",
+      "name": "",
+      "video": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/SuFLR1_Nwkex4zo1y/videoblocks-6131f4c768a3591a2a5fea3a_hnm1p87rzt__bf5457b3238687d4f1851c407a392ee3__P360.mp4",
+      "title": "زهرا فراهانی",
+      "sub": "Software Engineer",
+      "deslong": "",
+      "height": 251,
+      "date": ""
+    },
+    {
+      "id": "10",
+      "image": "",
+      "des": "",
+      "profile": "https://s3-alpha-sig.figma.com/img/f6a6/5eb5/2387d5d9062beaa54b328195aa457846?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Sly1uJtBwALQdN7Zm-k9UgYQxqKiUUpMS0IeWOl2P7gCkCV9IJEUYIHd4w1shCYnIRCWQVzP76lLgHShqVydKPT-li0MGy3K0Zdh8Kd~BYHoXtSwEBnMnxb9mgh2lcxYSUg1mOJY1Wpsuu6DI0RckqSn-JYe480c9kJBKoHElu51jbpgbxM6AWBj~Sd33nQiX2KpdEiW23KJAnCV5dGHKYg4kQ5F0RLniOD6lgW2ex-dgJ~lbu2GT3wAOa8RkaQZ32MJIBt0vERpSiL4s9AKMzYAxlJ8~NmsEk8N2u~S-mbX8-FhLVYeQlA1AFVQ6SeFJnYaIt9ersNWKCB6Z1U7HA__",
+      "profession": "طراح رابط کاربری و تجربه کاربر",
+      "name": "شراره میهن دوست",
+      "video": "",
+      "title": "",
+      "sub": "",
+      "deslong": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "height": 320,
+      "date": "۱۴۰۲/۰۸/۲۸"
+    },
+    {
+      "id": "11",
+      "image": "",
+      "des": "",
+      "profile": "https://s3-alpha-sig.figma.com/img/f6a6/5eb5/2387d5d9062beaa54b328195aa457846?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Sly1uJtBwALQdN7Zm-k9UgYQxqKiUUpMS0IeWOl2P7gCkCV9IJEUYIHd4w1shCYnIRCWQVzP76lLgHShqVydKPT-li0MGy3K0Zdh8Kd~BYHoXtSwEBnMnxb9mgh2lcxYSUg1mOJY1Wpsuu6DI0RckqSn-JYe480c9kJBKoHElu51jbpgbxM6AWBj~Sd33nQiX2KpdEiW23KJAnCV5dGHKYg4kQ5F0RLniOD6lgW2ex-dgJ~lbu2GT3wAOa8RkaQZ32MJIBt0vERpSiL4s9AKMzYAxlJ8~NmsEk8N2u~S-mbX8-FhLVYeQlA1AFVQ6SeFJnYaIt9ersNWKCB6Z1U7HA__",
+      "profession": "طراح رابط کاربری و تجربه کاربر",
+      "name": "شراره میهن دوست",
+      "video": "",
+      "title": "",
+      "sub": "",
+      "deslong": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "height": 320,
+      "date": "۱۴۰۲/۰۸/۲۸"
+    },
+    {
+      "id": "12",
+      "image": "",
+      "des": "",
+      "profile": "",
+      "profession": "",
+      "name": "",
+      "video": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/HrrabAxWinloumzm/videoblocks-young-students-with-laptop-and-headphones-studying-in-a-library_hzgufycdcz__9944efdea59a0bd263ae34e7c236df57__P360.mp4",
+      "title": "زهرا فراهانی",
+      "sub": "Software Engineer",
+      "deslong": "",
+      "height": 251,
+      "date": ""
+    },
+    {
+      "id": "13",
+      "image": "",
+      "des": "",
+      "profile": "https://s3-alpha-sig.figma.com/img/f6a6/5eb5/2387d5d9062beaa54b328195aa457846?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Sly1uJtBwALQdN7Zm-k9UgYQxqKiUUpMS0IeWOl2P7gCkCV9IJEUYIHd4w1shCYnIRCWQVzP76lLgHShqVydKPT-li0MGy3K0Zdh8Kd~BYHoXtSwEBnMnxb9mgh2lcxYSUg1mOJY1Wpsuu6DI0RckqSn-JYe480c9kJBKoHElu51jbpgbxM6AWBj~Sd33nQiX2KpdEiW23KJAnCV5dGHKYg4kQ5F0RLniOD6lgW2ex-dgJ~lbu2GT3wAOa8RkaQZ32MJIBt0vERpSiL4s9AKMzYAxlJ8~NmsEk8N2u~S-mbX8-FhLVYeQlA1AFVQ6SeFJnYaIt9ersNWKCB6Z1U7HA__",
+      "profession": "طراح رابط کاربری و تجربه کاربر",
+      "name": "شراره میهن دوست",
+      "video": "",
+      "title": "",
+      "sub": "",
+      "deslong": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+      "height": 320,
+      "date": "۱۴۰۲/۰۸/۲۸"
+    }
+  ],
+  "Employments": [
+    {
+      "id": "1",
+      "manager": "ارشد مدیر محصول",
+      "city": "تهران، تمام وقت",
+      "product": "محصول"
+    },
+
+    {
+      "id": "2",
+      "manager": "ارشد طراح رابط کاربری",
+      "city": "تهران، تمام وقت",
+      "product": "محصول"
+    },
+    {
+      "id": "3",
+      "manager": "ارشد طراح رابط کاربری",
+      "city": "اصفهان، پاره وقت",
+      "product": "محصول"
+    },
+    {
+      "id": "4",
+      "manager": "ارشد طراح رابط کاربری",
+      "city": "اصفهان، پاره وقت",
+      "product": "محصول"
+    },
+    {
+      "id": "5",
+      "manager": "طراح تجربه کاربری",
+      "city": "تهران، تمام وقت",
+      "product": "محصول"
+    },
+    {
+      "id": "6",
+      "manager": "ارشد طراح رابط کاربری",
+      "city": "تهران، تمام وقت",
+      "product": "محصول"
+    },
+    {
+      "id": "7",
+      "manager": "ارشد طراح رابط کاربری",
+      "city": "تهران، تمام وقت",
+      "product": "محصول"
+    },
+    {
+      "id": "8",
+      "manager": "ارشد طراح رابط کاربری",
+      "city": "تهران، تمام وقت",
+      "product": "محصول"
+    },
+    {
+      "id": "9",
+      "manager": "ارشد طراح رابط کاربری",
+      "city": "تهران، تمام وقت",
+      "product": "محصول"
+    },
+    {
+      "id": "10",
+      "manager": "ارشد طراح رابط کاربری",
+      "city": "تهران، تمام وقت",
+      "product": "محصول"
+    }
+  ],
+  "Sight": [
+    {
+      "id": "1",
+      "video": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/NL0L5N5Rgimkt8edi/videoblocks-students-in-auditorium-listening-at-conference-or-presentation-workshop-master-class-notes-and-pens_see_lxfg2f__7ba0a12e3689bb0fc4a6030ece02cd43__P360.mp4",
+      "title": "سهیل فرهادی",
+      "sub": "Data Scientist, DPR Construction"
+    },
+    {
+      "id": "2",
+      "video": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/SoSbTwt3rk3ek8fe9/videoblocks-616dd7dbc4bc747457e1c630_s2_cudhsy__d02708c3bf431400bc8e42b70f272c59__P360.mp4",
+      "title": "زهرا فرهادی",
+      "sub": "Data Scientist, DPR Construction"
+    },
+    {
+      "id": "3",
+      "video": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/NL0L5N5Rgimkt8edi/videoblocks-students-in-auditorium-listening-at-conference-or-presentation-workshop-master-class-notes-and-pens_see_lxfg2f__7ba0a12e3689bb0fc4a6030ece02cd43__P360.mp4",
+      "title": "سهیل فرهادی",
+      "sub": "Data Scientist, DPR Construction"
+    },
+    {
+      "id": "4",
+      "video": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/SoSbTwt3rk3ek8fe9/videoblocks-616dd7dbc4bc747457e1c630_s2_cudhsy__d02708c3bf431400bc8e42b70f272c59__P360.mp4",
+      "title": "زهرا فرهادی",
+      "sub": "Data Scientist, DPR Construction"
+    }
+  ],
+  "Why": [
+    {
+      "id": "1",
+      "title": "فرصت‌های شغلی صدرا را از کجا ببینم؟ چطور اقدام کنم؟",
+      "sub": "می‌توانید این آگهی‌ها را در بخش «فرصت‌های شغلی در صدرا» در همین صفحه و وب‌سایت‌های کاریابی ببینید و رزومه‌تان را ارسال کنید."
+    },
+    {
+      "id": "2",
+      "title": "فرایند جذب در صدرا چگونه است؟",
+      "sub": "می‌توانید این آگهی‌ها را در بخش «فرصت‌های شغلی در صدرا» در همین صفحه و وب‌سایت‌های کاریابی ببینید و رزومه‌تان را ارسال کنید."
+    },
+    {
+      "id": "3",
+      "title": "کار در صدرا چه مزایایی دارد؟",
+      "sub": "می‌توانید این آگهی‌ها را در بخش «فرصت‌های شغلی در صدرا» در همین صفحه و وب‌سایت‌های کاریابی ببینید و رزومه‌تان را ارسال کنید."
+    },
+    {
+      "id": "4",
+      "title": "چطور می‌توانم محیط کار و فرهنگ صدرا را بیشتر بشناسم؟",
+      "sub": "می‌توانید این آگهی‌ها را در بخش «فرصت‌های شغلی در صدرا» در همین صفحه و وب‌سایت‌های کاریابی ببینید و رزومه‌تان را ارسال کنید."
+    },
+    {
+      "id": "5",
+      "title": "فرصت‌های شغلی صدرا را از کجا ببینم؟ چطور اقدام کنم؟",
+      "sub": "می‌توانید این آگهی‌ها را در بخش «فرصت‌های شغلی در صدرا» در همین صفحه و وب‌سایت‌های کاریابی ببینید و رزومه‌تان را ارسال کنید."
+    },
+    {
+      "id": "6",
+      "title": "فرایند جذب در صدرا چگونه است؟",
+      "sub": "می‌توانید این آگهی‌ها را در بخش «فرصت‌های شغلی در صدرا» در همین صفحه و وب‌سایت‌های کاریابی ببینید و رزومه‌تان را ارسال کنید."
+    },
+    {
+      "id": "7",
+      "title": "کار در صدرا چه مزایایی دارد؟",
+      "sub": "می‌توانید این آگهی‌ها را در بخش «فرصت‌های شغلی در صدرا» در همین صفحه و وب‌سایت‌های کاریابی ببینید و رزومه‌تان را ارسال کنید."
+    },
+    {
+      "id": "8",
+      "title": "چطور می‌توانم محیط کار و فرهنگ صدرا را بیشتر بشناسم؟",
+      "sub": "می‌توانید این آگهی‌ها را در بخش «فرصت‌های شغلی در صدرا» در همین صفحه و وب‌سایت‌های کاریابی ببینید و رزومه‌تان را ارسال کنید."
+    }
+  ],
+  "Buttom": [
+    {
+      "id": "1",
+      "title": "Game Design",
+      "svg": "/src/assets/Images/GameController.svg"
+    },
+    {
+      "id": "2",
+      "title": "3D & Animation",
+      "svg": "/src/assets/Images/Cube.svg"
+    },
+    {
+      "id": "3",
+      "title": "Graphic Design",
+      "svg": "/src/assets/Images/PenNib.png"
+    },
+    {
+      "id": "4",
+      "title": "Graphic Design",
+      "svg": "/src/assets/Images/Layout.svg"
+    },
+    {
+      "id": "5",
+      "title": "IOT",
+      "svg": "/src/assets/Images/GitFork.svg"
+    },
+    {
+      "id": "6",
+      "title": "Data Science",
+      "svg": "/src/assets/Images/ChartPieSlice.svg"
+    },
+    {
+      "id": "7",
+      "title": "Back-End ",
+      "svg": "/src/assets/Images/Database.svg"
+    },
+    {
+      "id": "8",
+      "title": "Front-End  ",
+      "svg": "/src/assets/Images/Cpu.svg"
+    }
+  ],
+  "Learn": [
+    {
+      "id": "1",
+      "image": "https://s3-alpha-sig.figma.com/img/4a78/21d1/741d59044932729d622a83ec0abdea7f?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=jbLOlSRhf0xVy5Bk6xb1Q9u1GtmboeuMAR8VlbzJIz42AhJMrQ51qtML~S0SZ9WbbFa1Emp9qNbhbfisUP0wg48GHkTDIGUTjUJjHHiZT-Jgiqu~ETEi0OwINwWFXvoQlNomYbqyPFnzyvHq9xV2i9th-CgywjM8I6E~PBvKA-WmQ60ZNuJdssVldEW9FamJ~hZs6b4unJcp95yNge7-3v7TWuGyNNG6cSpmXVC2pN3UKxuXQNAe-GP3iCh0iVSaxIcYve2gjHCtItHflYke4ZT9~CjyTbcApR4m6AwS1spbqHaE6YsjjICZNW-Eubv2HuFR2Gj8DmArcdNdK6PGcA__",
+      "title": "نحوه طراحی دستی ایده‌ها",
+      "name": "استاد علی بابایی",
+      "rating": "(122)4.8",
+      "price": "128",
+      "time": "40 دقیقه"
+    },
+    {
+      "id": "2",
+      "image": "https://cdn1.vectorstock.com/i/1000x1000/57/15/work-coding-and-programming-on-a-laptop-vector-31045715.jpg",
+      "title": "نحوه طراحی دستی ایده‌ها",
+      "name": "استاد علی بابایی",
+      "rating": "(122)4.8",
+      "price": "128",
+      "time": "40 دقیقه"
+    },
+    {
+      "id": "3",
+      "image": "https://png.pngtree.com/thumb_back/fh260/background/20240610/pngtree-computer-of-a-programmer-with-lines-code-of-software-image_15746003.jpg",
+      "title": "نحوه طراحی انیمیشن ",
+      "name": "استاد منا عزیزی",
+      "rating": "(122)4.8",
+      "price": "128",
+      "time": "40 دقیقه"
+    },
+    {
+      "id": "4",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png",
+      "title": "نحوه طراحی فرانت اند ",
+      "name": "استاد مرتضی اویسی",
+      "rating": "(182)3.8",
+      "price": "240",
+      "time": "20 دقیقه"
+    },
+    {
+      "id": "5",
+      "image": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/8177834/cover_image/optimized/Leverage%20LLMs%20for%20Coding-Blog-0cdfd3ae36e086935574c2ab341387ce.png",
+      "title": "نحوه طراحی بک اند",
+      "name": "استاد علی بابایی",
+      "rating": "(142)4.5",
+      "price": "320",
+      "time": "50 دقیقه"
+    },
+    {
+      "id": "6",
+      "image": "https://png.pngtree.com/thumb_back/fh260/background/20240610/pngtree-computer-of-a-programmer-with-lines-code-of-software-image_15746003.jpg",
+      "title": "نحوه طراحی انیمیشن ",
+      "name": "استاد منا عزیزی",
+      "rating": "(122)4.8",
+      "price": "128",
+      "time": "40 دقیقه"
+    },
+    {
+      "id": "7",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png",
+      "title": "نحوه طراحی فرانت اند ",
+      "name": "استاد مرتضی اویسی",
+      "rating": "(182)3.8",
+      "price": "240",
+      "time": "20 دقیقه"
+    },
+    {
+      "id": "8",
+      "image": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/8177834/cover_image/optimized/Leverage%20LLMs%20for%20Coding-Blog-0cdfd3ae36e086935574c2ab341387ce.png",
+      "title": "نحوه طراحی بک اند",
+      "name": "استاد علی بابایی",
+      "rating": "(142)4.5",
+      "price": "320",
+      "time": "50 دقیقه"
+    }
+  ]
+}

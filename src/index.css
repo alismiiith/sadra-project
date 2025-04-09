@@ -1,0 +1,218 @@
+@import "tailwindcss";
+@font-face {
+  font-family: IranSans;
+  src: url("/src/assets/font/IRANYekanWeb.eot");
+  src: url("/src/assets/font/IRANYekanWeb.ttf");
+  src: url("/src/assets/font/IRANYekanWeb.woff");
+  src: url("/src/assets/font/IRANYekanWeb.woff2");
+}
+@font-face {
+  font-family: IranSansNum;
+  src: url("/src/assets/font/homa/B\ Homa_0.ttf");
+}
+.numfont {
+  font-family: IranSansNum;
+}
+.loginback{
+  background-image: url("/src/assets/Images/login.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+@layer components {
+  * {
+    box-sizing: border-box;
+    font-family: IranSans;
+    margin: 0;
+    padding: 0;
+
+    direction: rtl;
+  }
+
+  @keyframes trans {
+    0% {
+      transform: translateY(0);
+    }
+    100% {
+      transform: translateY(10px);
+    }
+  }
+  .trans {
+    animation: trans 2s forwards;
+    transition-timing-function: ease-in;
+  }
+  @keyframes transout {
+    0% {
+      transform: translateY(10px);
+    }
+    100% {
+      transform: translateY(0px);
+    }
+  }
+  @media (max-width: 768px) {
+    ::-webkit-scrollbar {
+      display: none;
+    }
+  }
+  .transout {
+    animation: trans 2s forwards;
+  }
+  :root {
+    --green-sadra: #4ca773;
+  }
+  .karim {
+    background-image: url("/src/assets/Images/Patern1.png");
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 320px;
+  }
+  .light {
+    color: red;
+    z-index: 500;
+  }
+  .back {
+    background-image: url("https://assets.illustraai.com/illustrations/man-working-at-laptop.svg");
+    background-position: center center;
+    background-size: cover;
+  }
+  .color {
+    color: #ffffff;
+  }
+  .someinput::-ms-clear {
+    display: none;
+  }
+  input[type="search"]::-webkit-search-cancel-button {
+    -webkit-appearance: none;
+    appearance: none;
+  }
+  .slider {
+    width: 80%;
+    position: relative;
+    .slides {
+      position: relative;
+      width: 100%;
+      height: inherit;
+      .slider {
+        position: absolute;
+        width: inherit;
+        height: inherit;
+      }
+    }
+  }
+  .hrsilver {
+    color: #d0d5dd;
+  }
+  body {
+    max-width: 1920px;
+    margin: 0 auto;
+  }
+  .star {
+    color: orange;
+  }
+  @keyframes scrollX {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  @keyframes scrollXMine {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  .scrolling-text {
+    animation: scrollX 10s linear infinite;
+  }
+  .white {
+    white-space: wrap;
+  }
+  .scrolling-prev {
+    animation: scrollXMine 10s linear infinite;
+  }
+  @media (min-width: 0px) and (max-width: 576px) {
+    .test {
+      display: none;
+    }
+    .mobileflex {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      padding: 0 20px 0 20px;
+    }
+    .mobilewidth {
+      width: 100%;
+    }
+    .backimage {
+      background-image: url("https://static.vecteezy.com/system/resources/previews/014/160/782/non_2x/freelancer-young-boy-sitting-on-the-chair-working-with-laptop-at-home-flat-illustration-vector.jpg");
+      background-position: center top;
+      background-size: cover;
+    }
+    .mobileflexjustify {
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: center;
+      width: 100%;
+      padding: 0 20px 0 20px;
+      row-gap: 15px;
+    }
+    .overflow {
+      overflow-x: auto;
+    }
+    .positionmobile {
+      position: absolute;
+      right: 10;
+      top: 40px;
+    }
+    .textalign {
+      text-align: center;
+    }
+  }
+  .backimagetablet {
+    background-image: url("https://thegadgetflow.com/wp-content/uploads/2025/03/ACEELE-4K-Smart-Portable-Quad-Monitor-01-min-1200x900.jpg");
+    background-position: center top;
+    background-size: cover;
+  }
+  @media (min-width: 1024px) {
+    .deswidth {
+      width: 20% !important;
+    }
+  }
+  .display {
+    display: block !important;
+  }
+  @media (min-width: 1024px) {
+    .pcbackground {
+      background-image: url("https://s3-alpha-sig.figma.com/img/85bd/c7fd/db393d6f232152dda4a69f63d6c9bfea?Expires=1740960000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=QgGZWkWXS5EZkgpD7A6X60u0CfclwYGm78wK-0mX4OUQ8BG5TIBH3ItAANMZhYUMIO4LSAWgvLMD59ElI16z647IOGsgcQBAeJiEiMtH0JZ7SaKdpIimKBPpTZRIAcknA9KgeEEaXFrDdRI6A45Eq~BdBE-cV3wZVmKu6kohjBOVOg3Y9fvWZQLAK5dPPxlr8JH3ttkYkVcd-f0eYqQIAs7eonYaC~GWfTMpHiMNiYpSovtkB1J6iZw~ogbj~Vt7YzOb1Yov~TXtirMf1veNuq8QS4qszEvWamNicjsd6109IIm-KvBJeHhVhHj~T06MB7EvJmmoMp6AhcC87Ba2uQ__");
+      background-position: left center;
+    }
+  }
+
+  .masonry-layout {
+    column-gap: 1em;
+  }
+  .masonry-item {
+    break-inside: avoid;
+    border-radius: 20px;
+    background-color: #ffffff;
+    box-shadow: 1px 1px 13px #2b2b2b;
+  }
+  .shadow {
+    box-shadow: inset 5px 5px 25px red;
+    z-index: 999;
+  }
+  @media (min-width: 768px) {
+    .masonry-layout {
+      column-count: 2;
+      margin: 50px 0px;
+    }
+  }
+  @media (min-width: 1024px) {
+    .masonry-layout {
+      column-count: 3;
+    }
+  }
+}
