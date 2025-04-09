@@ -32,7 +32,7 @@ const Video = ({item,idx}) => {
                             </div>
                         </div>
                     </div>
-                    <div  className="lg:w-[40%] min-w-[299px]  h-[380px]  lg:h-[431px] shadow-black border-gray-300 border-2 cursor-pointerner  bg-[#FFFFFF] rounded-2xl   ">
+                    <div  className="lg:w-[40%] min-w-[299px]  h-[380px]  lg:h-[431px] shadow-black border-gray-300 border-2 cursor-pointer  bg-[#FFFFFF] rounded-2xl   ">
                         <img className="h-[50%] w-full rounded-t-2xl  bg-cover bg-center object-cover" src={item.image2} alt="" />
                         <h1 className="lg:text-[20px] 2xl:px-12 text-[16px] text-[#252525] pr-5 pt-5">{item.title}</h1>
                         <div className="flex w-full relative px-5 2xl:px-12  pt-2 h-[54px] flex-row justify-between items-center ">
