@@ -29,7 +29,7 @@ const Videos = () => {
              <h1 className="lg:text-[40px] text-[#101828] text-[24px] text-justify lg:w-[40%] w-[80%] pt-1">بیش از 100 دوره‌ی فعال برای پیشرفت شما </h1>
              <span className="text-[18px] text-[#667085] lg:pr-10 w-[100%]  text-justify lg:w-[40%]">ما طیف وسیعی از دسته‌ها را برای کمک به شما در انتخاب دوره‌هایی که متناسب با تخصص شما هستند ارائه می‌کنیم. بیش از 100 دوره شما را از پایه راهنمایی می کند.</span>
             </div>
-            <div className="lg:w-[80%]  w-full md:justify-center md:flex md:flex-col  overflow-hidden   ">
+            <div className="lg:w-[82.7%]  w-full md:justify-center md:flex md:flex-col  overflow-hidden   ">
                 <div className="w-[200%] lg:pt-3 md:w-[100%] md:justify-center  lg:justify-start md:gap-10   lg:w-[100%] overflow   flex flex-row  gap-7  mr-[16px] ">
                 {["طراح UI/UX", "طراح گرافیک", "انیمیشن و 3D", "فرانت اند", "بک اند", "IOT"].map((text, idx) => (
                             <button

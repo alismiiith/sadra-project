@@ -14,14 +14,14 @@ const Increase = () => {
 
   return (
     <>
-      <div className="increase  w-full flex   justify-center my-20 items-center ">
-        <div className="flex w-full flex-col lg:flex-row lg:w-[80%] justify-center items-center   ">
+      <div className="increase   w-full flex   justify-center my-20 items-center ">
+        <div className="flex  w-full flex-col lg:flex-row lg:w-[82.7%] justify-center items-center   ">
           <div className="increase__right w-full   items-start  lg:w-[60%] flex flex-col gap-2">
             <div className="flex w-full lg:pr-10 gap-2 lg:justify-start justify-center">
               <span className="text-[#4CA773] ">___</span>
               <span className="text-[#4CA773] text-[16px] pt-2">درباره ما</span>
             </div>
-            <h1 className="lg:text-[40px] 2xl:text-[52px] font-bold md:text-[34px] md:text-center  text-[24px]  text-[#101828] lg:w-[70%]  mx-8 lg:mx-0 pt-1">
+            <h1 className="lg:text-[40px] 2xl:text-[52px] font-bold md:text-[34px] md:text-center  text-[24px]  text-[#101828] lg:w-[70%] 2xl:w-[55 %]  mx-8 lg:mx-0 pt-1">
               افزایش رشد فردی و تقویت استعداد شما
             </h1>
             <span className="lg:text-[18px] md:text-[16px] md:px-20 lg:pr-9 lg:pl-[64px] md:text-center lg:text-justify  text-[14px] text-[#667085] px-7">
@@ -53,13 +53,13 @@ const Increase = () => {
               </button>
             </div>
           </div>
-          <div className="increase__left bg-green-400 lg:w-[40%] pt-5 w-[100%]      relative items-center  flex flex-col lg:flex-row ">
+          <div className="increase__left  lg:w-[40%]     w-[100%]      relative items-center  flex flex-col lg:flex-row ">
             <img
-              className="lg:w-[50%] object-cover lg:h-[330px]   w-[312px] h-[256px]  rounded-2xl"
+              className="lg:w-[50%]  object-cover lg:h-[334px]   w-[312px] h-[256px]  rounded-2xl"
               src="https://e1.pxfuel.com/desktop-wallpaper/663/243/desktop-wallpaper-3840x2160-laptop-macbook-iphone-apple-laptop.jpg"
               alt=""
             />
-            <div className="w-[210px]  bg-red-400  justify-center items-center h-[334px] flex flex-col lg:gap-1 gap-3 lg:absolute left-0 ">
+            <div className="w-[210px]     justify-center items-center h-[334px] flex flex-col lg:gap-1 gap-3 lg:absolute left-0 ">
               <p className="lg:text-[34px] numfont text-[24px] text-[#101828]">
                 54M
               </p>

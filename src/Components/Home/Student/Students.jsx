@@ -29,7 +29,7 @@ const Students = () => {
   }, []);
   return (
     <>
-      <div className="w-full   h-[740px] justify-center flex flex-col items-center bg-[#1C1C1C]">
+      <div className="w-full   h-[740px] justify-center flex flex-col karim items-center bg-[#1C1C1C]">
         <div className="flex w-full justify-center gap-3 lg:pt-30  ">
           <span className="text-[#4CA773]">__</span>
           <span className="text-[#4CA773] text-[16px] pt-2">
