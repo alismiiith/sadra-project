@@ -9,7 +9,7 @@ const Main = ({searchResults}) => {
     results
   ) : (
     <article>
-      <p>جستوجویی یافت نشد</p>
+      <p className="">جستوجویی یافت نشد</p>
     </article>
   );
   return (
