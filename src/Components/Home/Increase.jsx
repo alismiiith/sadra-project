@@ -56,7 +56,7 @@ const Increase = () => {
           <div className="increase__left  lg:w-[40%]     w-[100%]      relative items-center  flex flex-col lg:flex-row ">
             <img
               className="lg:w-[50%]  object-cover lg:h-[334px]   w-[312px] h-[256px]  rounded-2xl"
-              src="https://e1.pxfuel.com/desktop-wallpaper/663/243/desktop-wallpaper-3840x2160-laptop-macbook-iphone-apple-laptop.jpg"
+              src="https://thumbs.dreamstime.com/z/vector-laptop-coding-concept-web-developer-design-programming-screen-code-illustration-196187792.jpg"
               alt=""
             />
             <div className="w-[210px]     justify-center items-center h-[334px] flex flex-col lg:gap-1 gap-3 lg:absolute left-0 ">

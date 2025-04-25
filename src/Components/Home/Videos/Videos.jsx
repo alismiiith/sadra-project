@@ -1,6 +1,7 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 import Video from "./Video";
+import { Link } from "react-router-dom";
 
 const Videos = () => {
     const [videos, setVideos] = useState([]);
@@ -26,8 +27,8 @@ const Videos = () => {
                 <span className="text-[#4CA773]">__</span>
                 <span className="text-[#4CA773] text-[16px] pt-2">دوره‌های محبوب</span>
              </div>
-             <h1 className="lg:text-[40px] text-[#101828] text-[24px] text-justify lg:w-[40%] w-[80%] pt-1">بیش از 100 دوره‌ی فعال برای پیشرفت شما </h1>
-             <span className="text-[18px] text-[#667085] lg:pr-10 w-[100%]  text-justify lg:w-[40%]">ما طیف وسیعی از دسته‌ها را برای کمک به شما در انتخاب دوره‌هایی که متناسب با تخصص شما هستند ارائه می‌کنیم. بیش از 100 دوره شما را از پایه راهنمایی می کند.</span>
+             <h1 className="lg:text-[40px] numfont  text-[#101828] text-[24px] text-center lg:text-justify lg:w-[40%] w-[80%] pt-1">بیش از 100 دوره‌ی فعال برای پیشرفت شما </h1>
+             <span className="text-[18px] text-[#667085] numfont px-[16px] lg:pr-10 w-[100%]  lg:text-justify text-center lg:w-[40%]">ما طیف وسیعی از دسته‌ها را برای کمک به شما در انتخاب دوره‌هایی که متناسب با تخصص شما هستند ارائه می‌کنیم. بیش از 100 دوره شما را از پایه راهنمایی می کند.</span>
             </div>
             <div className="lg:w-[82.7%]  w-full md:justify-center md:flex md:flex-col  overflow-hidden   ">
                 <div className="w-[200%] lg:pt-3 md:w-[100%] md:justify-center  lg:justify-start md:gap-10   lg:w-[100%] overflow   flex flex-row  gap-7  mr-[16px] ">
@@ -42,7 +43,7 @@ const Videos = () => {
                         ))}
                 </div>
                 <hr className="hrsilver lg:h-[100px]  lg:w-[100%] md:w-[90%] mr-[16px] md:mr-10 lg:mr-0     w-[250%] "/>
-                <div className="  w-full lg:h-[500px] overflow flex pt-10  gap-3  lg:mt-5   ">
+                <div className="  w-full  lg:h-[500px] overflow flex lg:pt-10 pt-[32px]    gap-3  lg:mt-5   ">
                     {videos?.map((item , idx)=>{
                         return(
                             <>
@@ -57,7 +58,7 @@ const Videos = () => {
                     
                 </div>
             </div>
-                <button className="text-[14px] rounded-2xl border-[#4CA773] mt-10 border-2 text-[#4CA773]  w-[152px] h-[48px]">دوره‌های بیشتر</button>
+                <Link to={"/Events"} className="text-[14px] rounded-2xl border-[#4CA773] mt-10 border-2 text-[#4CA773]  lg:w-[164px] lg:h-[56px] lg:py-[16px] py-[12px] px-[24px]   lg:px-[32px]">دوره‌های بیشتر</Link>
         </div>
         </>
      );

@@ -5,12 +5,12 @@ const Header = () => {
   return (
     <>
       <div className="lg:w-full karim lg:h-[724px]  flex lg:flex-row flex-col w-[375px] md:w-full    bg-[#2b2b2b] ">
-        <div className="right lg:w-[65%] lg:pr-[200px] lg:pt-[20px] mobilewidth flex flex-col">
+        <div className="right lg:w-[67%] lg:px-[8.6%] lg:pt-[20px] mobilewidth flex flex-col">
           <div className="top   flex flex-row">
             <div className="flex   deswidth  flex-row  h-[56px]  md:w-full md:px-10 lg:px-0 items-center md:justify-between mobileflex   ">
             <div className="flex items-center gap-3 ">
                 <img className="w-[50px] " src="/src/assets/Images/Group 1.svg" alt="" />
-                <p className="text-[25px]  text-[#FFFFFF] font-bold ">صدرا</p>
+                <p className="2xl:text-[25px] text-[20px]   text-[#FFFFFF] font-bold ">صدرا</p>
                 </div>
               <div
                 onClick={() => setIsOpen(!isOpen)}
@@ -30,32 +30,32 @@ const Header = () => {
                   <Link className="text-[18px] text-[#FFFFFF] font-bold ">
                     صفحه اصلی
                   </Link>
-                  <Link className="text-[16px] opacity-60 text-[#FFFFFF] ">
+                  <Link className="text-[16px] opacity-60 text-[#F9F9F9] ">
                     کلاس ها{" "}
                   </Link>
-                  <Link className="text-[16px] opacity-60  text-[#FFFFFF] ">
+                  <Link className="text-[16px] opacity-60  text-[#F9F9F9] ">
                     رویدادها
                   </Link>
-                  <Link className="text-[16px] opacity-60 text-[#FFFFFF] ">
+                  <Link className="text-[16px] opacity-60 text-[#F9F9F9] ">
                     تماس با ما
                   </Link>
                 </div>
               </div>
             </div>
             <div className="lg:flex md:hidden test lg:w-[80%]   h-[56px] items-center justify-center gap-16">
-              <Link className="text-[22px] text-[#FFFFFF] font-bold ">
+              <Link className="2xl:text-[22px] text-[#F9F9F9] font-bold ">
                 صفحه اصلی
               </Link>
-              <Link className="text-[20px] opacity-60 text-[#FFFFFF] ">
+              <Link className="2xl:text-[20px] opacity-60 text-[#F9F9F9] ">
                 کلاس ها{" "}
               </Link>
               <Link
                 to={`/Events`}
-                className="text-[20px] opacity-60  text-[#FFFFFF] "
+                className="2xl:text-[20px] opacity-60  text-[#F9F9F9] "
               >
                 رویدادها
               </Link>
-              <Link className="text-[20px] opacity-60 text-[#FFFFFF] ">
+              <Link className="2xl:text-[20px] opacity-60 text-[#F9F9F9] ">
                 تماس با ما
               </Link>
             </div>
@@ -96,8 +96,8 @@ const Header = () => {
             </div>
           </div>
         </div>
-        <div className="lg:back backimagetablet left justify-end   mt-10 lg:mt-0 w-full h-[254px] backimage md:h-[441px]  lg:h-full lg:w-[35%] lg:flex ">
-          <Link to={"/login"} className="text-[18px] lg:flex md:hidden  test h-[50px] mt-5 mr-5 lg:ml-[200px]   rounded-3xl cursor-pointer text-[#FFFFFF] font-semibold px-5 py-3 bg-green-400">
+        <div className="lg:back backimagetablet left justify-end   mt-10 lg:mt-0 w-full h-[254px] backimage md:h-[441px]  lg:h-full lg:w-[33.3%] lg:flex ">
+          <Link to={"/login"} className="text-[16px] lg:flex md:hidden  test h-[50px] mt-5 mr-5 lg:ml-[13%]   rounded-4xl cursor-pointer text-[#FFFFFF] font-semibold px-[32px] py-[16px] bg-[#4CA773]">
             ثبت نام و ورود
           </Link>
         </div>

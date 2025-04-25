@@ -15,7 +15,7 @@ const Teaching = () => {
   return (
     <>
       <div className="w-full md:h-[696px] h-[526px]  lg:h-[916px]  mt-[64px]">
-        <div className="top  md:flex md:w-full lg:items-start 2xl:px-[200px] md:justify-center  md:items-center  flex flex-col gap-5 px-[16px]    ">
+        <div className="top  md:flex md:w-full lg:items-start lg:px-[8.6%] md:justify-center  md:items-center  flex flex-col gap-5 px-[16px]    ">
           <div className="flex  ">
             <span className="text-[#4CA773]">__</span>
             <span className="text-[#4CA773] pt-2">آموزش ما</span>
@@ -41,7 +41,7 @@ const Teaching = () => {
         <div className="down  flex justify-center relative ">
           <video
             ref={videoRef}
-            className="lg:w-[80%] w-[80%] md:h-[324px] bg-amber-300 object-cover  lg:h-[568px] h-[230px] mt-10 rounded-xl lg:rounded-3xl"
+            className="lg:w-[82%] w-[80%] md:h-[324px] bg-amber-300 object-cover  lg:h-[568px] h-[230px] mt-10 rounded-xl lg:rounded-3xl"
             src="https://videocdn.cdnpk.net/videos/e5a722a7-e4f5-454d-9c6f-88423f06626a/horizontal/previews/videvo_watermarked/large.mp4"
             alt=""
           />
