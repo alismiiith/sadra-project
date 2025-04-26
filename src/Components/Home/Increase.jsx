@@ -16,7 +16,7 @@ const Increase = () => {
     <>
       <div className="increase   w-full flex   justify-center my-20 items-center ">
         <div className="flex  w-full flex-col lg:flex-row lg:w-[82.7%] justify-center items-center   ">
-          <div className="increase__right w-full   items-start  lg:w-[60%] flex flex-col gap-2">
+          <div className="increase__right w-full   items-start  lg:w-[50%] flex flex-col gap-2">
             <div className="flex w-full lg:pr-10 gap-2 lg:justify-start justify-center">
               <span className="text-[#4CA773] ">___</span>
               <span className="text-[#4CA773] text-[16px] pt-2">درباره ما</span>
@@ -53,7 +53,7 @@ const Increase = () => {
               </button>
             </div>
           </div>
-          <div className="increase__left  lg:w-[40%]     w-[100%]      relative items-center  flex flex-col lg:flex-row ">
+          <div className="increase__left  lg:w-[50%]     w-[100%]      relative items-center  flex flex-col lg:flex-row ">
             <img
               className="lg:w-[50%]  object-cover lg:h-[334px]   w-[312px] h-[256px]  rounded-2xl"
               src="https://thumbs.dreamstime.com/z/vector-laptop-coding-concept-web-developer-design-programming-screen-code-illustration-196187792.jpg"
