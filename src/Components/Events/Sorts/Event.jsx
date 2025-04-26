@@ -1,6 +1,6 @@
 const Event = ({item}) => {
     return(
-        <div   className="lg:max-w-[296px] w-[340px] md:w-[324px] md:h-[413px]   relative  border-gray-300 border-2 cursor-pointer h-[431px]  bg-[#FFFFFF] rounded-2xl   ">
+        <div   className="lg:max-w-[296px] w-[340px] md:w-[324px]    relative  border-gray-300 border-2 cursor-pointer h-[431px]   bg-[#FFFFFF] rounded-2xl   ">
 <img className="h-[50%] object-center w-full rounded-t-2xl  bg-cover bg-center object-cover" src={item.image1} alt="" />
 <h1 className="lg:text-[20px] text-[16px] text-[#252525] px-10 pt-5">{item.title}</h1>
 <div className="flex flex-col w-fit absolute left-8 bottom-30">
