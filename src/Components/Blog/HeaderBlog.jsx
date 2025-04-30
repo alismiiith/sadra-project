@@ -49,10 +49,13 @@ const HeaderBlog = ({ Anatomy, setSearchResults }) => {
   return (
     <>
       <div className="lg:w-full lg:h-[724px] flex lg:flex-row flex-col w-[375px] md:w-full  pb-10   bg-[#2b2b2b] ">
-        <div className="right lg:w-[100%] w-full  mobilewidth flex flex-col">
+        <div className="right lg:w-[100%] w-full  mobilewidth flex flex-col pt-[20px]">
           <div className="top  flex flex-row">
-            <div className="flex   deswidth  flex-row lg:pr-20 h-[56px]  md:w-full md:px-10 items-center md:justify-between mobileflex   ">
-              <p className="text-[25px]  text-[#FFFFFF] font-bold ">صدرا</p>
+            <div className="flex   deswidth  flex-row lg:pr-[8.6%] h-[56px]  md:w-full md:px-10 items-center md:justify-between mobileflex   ">
+            <div className="flex items-center gap-3 ">
+                <img className="w-[50px] " src="/src/assets/Images/Group 1.svg" alt="" />
+                <Link to={"/"} className="2xl:text-[25px] text-[20px]   text-[#FFFFFF] font-bold ">صدرا</Link>
+                </div>
               <div
                 onClick={() => setIsOpen(!isOpen)}
                 className="flex-col lg:hidden z-999   relative w-fit flex gap-y-[2px] labeltest    h-[56px] pt-6   desktop:hidden  "
@@ -83,23 +86,23 @@ const HeaderBlog = ({ Anatomy, setSearchResults }) => {
                 </div>
               </div>
             </div>
-            <div className="lg:flex md:hidden test lg:w-[80%] lg:justify-start   h-[56px] items-center justify-center gap-16">
-              <Link className="text-[22px] text-[#FFFFFF] font-bold ">
+            <div className="lg:flex md:hidden test lg:w-[80%] lg:justify-start   h-[56px] items-center justify-center gap-16 ">
+              <Link to={"/"} className="text-[20px] opacity-60 text-[#FFFFFF] font-bold ">
                 صفحه اصلی
               </Link>
-              <Link className="text-[20px] opacity-60 text-[#FFFFFF] ">
-                کلاس ها{" "}
+              <Link className="text-[22px] font-bold  text-[#FFFFFF] ">
+                بلاگ ها{" "}
               </Link>
-              <Link className="text-[20px] opacity-60  text-[#FFFFFF] ">
+              <Link to={"/Events"} className="text-[20px] opacity-60  text-[#FFFFFF] ">
                 رویدادها
               </Link>
-              <Link className="text-[20px] opacity-60 text-[#FFFFFF] ">
+              <Link to={"/contacts"} className="text-[20px] opacity-60 text-[#FFFFFF] ">
                 تماس با ما
               </Link>
             </div>
           </div>
-          <div className="button  h-[90%] lg:px-22  flex-col flex justify-center w-full ">
-            <div className="flex w-full   lg:pt-0 pt-10 justify-center gap-3 items-center lg:items-start lg:pr-10 flex-col">
+          <div className="button  h-[90%] px-[8.6%]  flex-col flex justify-center w-full ">
+            <div className="flex w-full     lg:pt-0 pt-10 justify-center gap-3 items-center lg:items-start  flex-col">
               <div className="flex w-fit ">
                 <p className="text-[12px] md:text-[14px] items-center  lg:text-[16px] text-[#98A2B3]">
                   رویدادها
@@ -147,7 +150,7 @@ const HeaderBlog = ({ Anatomy, setSearchResults }) => {
                 <input
                   onChange={handleSearchChange}
                   autoComplete="off"
-                  className="lg:w-[85vw] lg:rounded-4xl md:w-[680px] md:py-5 w-[314px] lg:text-[16px] md:text-[16px] text-[12px] font-bold h-[50px]   lg:h-[72px] bg-[#FFFFFF] rounded-3xl pr-5 "
+                  className="lg:w-[82vw] lg:rounded-4xl md:w-[680px] md:py-5 w-[314px] lg:text-[16px] md:text-[16px] text-[12px] font-bold h-[50px]   lg:h-[72px] bg-[#FFFFFF] rounded-3xl pr-5 "
                   type="search"
                   name="search"
                   id="search"
@@ -166,7 +169,7 @@ const HeaderBlog = ({ Anatomy, setSearchResults }) => {
           </div>
         </div>
 
-        <button className="text-[18px] lg:absolute lg:top-2 lg:left-20 lg:flex md:hidden  test h-[50px]   rounded-3xl cursor-pointer text-[#FFFFFF] font-semibold px-5 py-3 bg-green-400">
+        <button className="text-[18px] lg:absolute lg:top-[20px] lg:left-[8.6%] lg:flex md:hidden  test h-[50px]   rounded-3xl cursor-pointer text-[#FFFFFF] font-semibold px-5 py-3 bg-green-400">
           ثبت نام و ورود
         </button>
       </div>

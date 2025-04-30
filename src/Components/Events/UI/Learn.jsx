@@ -1,9 +1,9 @@
 const Learn = () => {
     return ( 
         <>
-        <div className="block lg:flex lg:flex-col w-[70%] pr-3">
+        <div className="block lg:flex lg:flex-col lg:w-[54%] w-[87%] lg:pr-[9.5%]  pt-[56px]">
             <h1 className="text-[20px] md:text-[28px] text-[#101828] font-bold pr-3">چه چیزی یاد می‌گیریم؟</h1>
-            <div className="block  ">
+            <div className="block   ">
                 <div className="first my-5">
                     <h1 className="text-[16px] md:text-[18px] mr-3 text-[#101828] font-bold">تحقیقات مبانی و طراحی UX</h1>
                     <span className="text-[12px] md:text-[16px] text-[#667085] text-justify mx-3 mt-2 block">طراحی محصول با درک نیازهای کاربران شروع می شود که از طریق تحقیقات جامع جمع آوری می شود. اصول اصلی طراحی انسان محور و نحوه حل مناسب یک مشکل طراحی را بیاموزید. درک نحوه همدلی با کاربران هنگام انجام تحقیقات کاربر، از جمله نحوه انجام مصاحبه های عمیق و ایجاد نظرسنجی های کمی، و استفاده از داده های تحقیق برای کشف فرصت ها. سپس روانشناسی را برای طراحی طرح ها به کار می گیرید و کاربر نهایی را در ذهن نگه می دارید.</span>

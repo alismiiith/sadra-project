@@ -46,8 +46,8 @@ const Header = () => {
               <Link className="2xl:text-[22px] text-[#F9F9F9] font-bold ">
                 صفحه اصلی
               </Link>
-              <Link className="2xl:text-[20px] opacity-60 text-[#F9F9F9] ">
-                کلاس ها{" "}
+              <Link to={`/Blog`}  className="2xl:text-[20px] opacity-60 text-[#F9F9F9] ">
+                بلاگ ها{" "}
               </Link>
               <Link
                 to={`/Events`}
