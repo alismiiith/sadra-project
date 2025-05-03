@@ -103,7 +103,7 @@ const EventsSorts = () => {
 
     return ( 
         <>
-        <div className="w-full flex  lg:items-start   lg:flex-row     mt-10 mb-50  lg:flex justify-center items-center flex-col ">
+        <div className="w-full flex  lg:items-start px-[5%]    lg:flex-row     mt-10 mb-50  lg:flex justify-center items-center flex-col ">
             <div className="lg:w-[20%] lg:h-full  lg:items-end    my-10 lg:my-0 gap-5 lg:gap-0 w-full   lg:justify-start   items-center flex lg:flex-row flex-col relative h-[30%] ">
             <div className="flex w-full lg:hidden justify-center   lg:absolute lg:top-0 lg:right-0   ">
                 <span className="text-[#4CA773]">__</span>

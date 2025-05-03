@@ -41,7 +41,7 @@ const Teaching = () => {
         <div className="down  flex justify-center relative ">
           <video
             ref={videoRef}
-            className="lg:w-[82%] w-[80%] md:h-[324px] bg-amber-300 object-cover  lg:h-[568px] h-[230px] mt-10 rounded-xl lg:rounded-3xl"
+            className="lg:w-[82%] w-[80%] md:h-[324px]  object-cover  lg:h-[568px] h-[230px] mt-10 rounded-xl lg:rounded-3xl"
             src="https://videocdn.cdnpk.net/videos/e5a722a7-e4f5-454d-9c6f-88423f06626a/horizontal/previews/videvo_watermarked/large.mp4"
             alt=""
           />

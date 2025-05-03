@@ -22,7 +22,7 @@ const Videos = () => {
     return ( 
         <>
         <div className="w-full flex     h-[840px]  lg:h-[815px] mt-10 mb-50  lg:flex justify-center items-center flex-col ">
-            <div className="lg:w-[80%] my-10 lg:my-0 gap-5 lg:gap-0 w-full item-center  lg:justify-between  items-center flex lg:flex-row flex-col relative h-[30%] ">
+            <div className="lg:w-[82.7%]  my-10 lg:my-0 gap-5 lg:gap-0 w-full item-center  lg:justify-between  items-center flex lg:flex-row flex-col relative h-[25%] ">
             <div className="flex w-full justify-center lg:justify-start   lg:absolute lg:top-0 lg:right-0   ">
                 <span className="text-[#4CA773]">__</span>
                 <span className="text-[#4CA773] text-[16px] pt-2">دوره‌های محبوب</span>
@@ -30,20 +30,20 @@ const Videos = () => {
              <h1 className="lg:text-[40px] numfont  text-[#101828] text-[24px] text-center lg:text-justify lg:w-[40%] w-[80%] pt-1">بیش از 100 دوره‌ی فعال برای پیشرفت شما </h1>
              <span className="text-[18px] text-[#667085] numfont px-[16px] lg:pr-10 w-[100%]  lg:text-justify text-center lg:w-[40%]">ما طیف وسیعی از دسته‌ها را برای کمک به شما در انتخاب دوره‌هایی که متناسب با تخصص شما هستند ارائه می‌کنیم. بیش از 100 دوره شما را از پایه راهنمایی می کند.</span>
             </div>
-            <div className="lg:w-[82.7%]  w-full md:justify-center md:flex md:flex-col  overflow-hidden   ">
-                <div className="w-[200%] lg:pt-3 md:w-[100%] md:justify-center  lg:justify-start md:gap-10   lg:w-[100%] overflow   flex flex-row  gap-7  mr-[16px] ">
+            <div className="lg:w-[82.7%] h-[75%] bg-  w-full md:justify-center md:flex md:flex-col  overflow-hidden   ">
+                <div className=" w-[100%] lg:pt-3 md:w-[100%] md:justify-center  lg:justify-start md:gap-10   lg:w-[100%] border-b-2 pt-3 border-[#E0E0E0] overflow  flex flex-row  gap-7 ">
                 {["طراح UI/UX", "طراح گرافیک", "انیمیشن و 3D", "فرانت اند", "بک اند", "IOT"].map((text, idx) => (
                             <button
-                                key={idx}
-                                onClick={() => handleNext(idx)}
-                                className="lg:text-[16px] hover:text-[#2b2b2b] font-bold md:text-[16px] text-[12px]  hover:border-b-2 hover:transition-all hover:duration-100 hover:border-b-green-400 cursor-pointer text-[#98A2B3]"
-                            >
-                                {text}
-                            </button>
+                            key={idx}
+                            onClick={() => handleNext(idx)}
+                            className="lg:text-[16px] font-bold md:text-[16px] text-[12px] pb-3 border-b-[3px] border-transparent hover:text-[#2b2b2b] hover:border-b-[#4CA773] transition-all duration-300 cursor-pointer text-[#98A2B3]"
+                        >
+                            {text}
+                        </button>
                         ))}
                 </div>
-                <hr className="hrsilver lg:h-[100px]  lg:w-[100%] md:w-[90%] mr-[16px] md:mr-10 lg:mr-0     w-[250%] "/>
-                <div className="  w-full  lg:h-[500px] overflow flex lg:pt-10 pt-[32px]    gap-3  lg:mt-5   ">
+                
+                <div className="  w-full  overflow flex lg:pt-10    gap-3     ">
                     {videos?.map((item , idx)=>{
                         return(
                             <>

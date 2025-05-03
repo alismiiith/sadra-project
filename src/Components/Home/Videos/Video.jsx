@@ -1,6 +1,6 @@
 const Video = ({item,idx}) => {
     return ( <>
-         <div  className="w-full   flex flex-row gap-3 2xl:gap-7   px-10">
+         <div  className="w-full  flex flex-row gap-3 2xl:gap-7   px-10">
                           <div  className="lg:w-[33.3%] max-md:min-w-[299px] 2xl:h-[431px] h-[380px]  shadow-black border-gray-300 border-2 cursor-pointer  bg-[#FFFFFF] rounded-2xl   ">
                         <img className="h-[50%] object-center w-full rounded-t-2xl  bg-cover bg-center object-cover" src={item.image1} alt="" />
                         <h1 className="2xl:text-[20px] text-[16px] 2xl:px-12  text-[#252525] pr-5 pt-5">{item.title}</h1>

@@ -1,6 +1,6 @@
 const Display = ({display}) => {
     return ( 
-        <div  className="w-full     lg:flex-row md:flex-row flex flex-col gap-3 pb-5 px-10">
+        <div  className="w-full     lg:flex-row md:flex-row  flex flex-col gap-3 pb-5 px-10">
                  <div  className="lg:w-[376px] md:min-w-[324px] md:h-[413px] w-[299px] h-[380px]  shadow-black border-gray-300 border-2 cursor-pointer lg:h-[431px]  bg-[#FFFFFF] rounded-2xl   ">
                         <img className="h-[50%] object-center w-full rounded-t-2xl  bg-cover bg-center object-cover" src={display?.image1} alt="" />
                         <h1 className="lg:text-[20px] text-[16px] text-[#252525] pr-5 pt-5">{display?.title}</h1>
