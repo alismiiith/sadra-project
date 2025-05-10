@@ -16,7 +16,7 @@ const Futures = () => {
   }, []);
   return (
     <>
-      <div className="w-full    bg-[#F2F4F7] min-[1440px]:justify-center flex flex-col  pt-20  ">
+      <div className="w-full    bg-[#F2F4F7]  flex flex-col  pt-20  ">
         <div className="topfull flex w-full justify-center ">
           <div className="top flex-row flex items-center justify-between    w-[88.8%] h-[52px]">
             <h1 className="lg:text-[34px] text-[24px] text-[#252525]">
@@ -36,13 +36,13 @@ const Futures = () => {
             </div>
           </div>
         </div>
-        <div className=" flex justify-center">
-          <div className="w-[88%]  md:overflow-x-auto  overflow flex flex-row justify-center gap-3 lg:pb-5 pb-5 pt-10">
+        <div className=" flex w-full justify-center   ">
+          <div className="lg:w-[88%]  w-full   md:overflow-x-auto  overflow flex flex-row lg:justify-center px-[16px] lg:px-0  gap-3 lg:pb-5 pb-5 pt-10">
             {futures?.map((item) => {
               return (
                 <div
                   key={item.id}
-                  className="min-w-[296px]  relative  border-gray-300 border-2 cursor-pointer h-[431px]  bg-[#FFFFFF] rounded-2xl   "
+                  className="  relative min-w-[296px]  border-gray-300 border-2 cursor-pointer h-[431px]  bg-[#FFFFFF] rounded-2xl   "
                 >
                   <img
                     className="h-[50%] object-center w-full rounded-t-2xl  bg-cover bg-center object-cover"
@@ -52,7 +52,7 @@ const Futures = () => {
                   <h1 className="lg:text-[18px] text-[16px] text-[#252525] px-10 pt-5">
                     {item.title}
                   </h1>
-                  <div className="flex flex-col w-fit absolute left-6 bottom-36">
+                  <div className="flex flex-col w-fit absolute left-6 bottom-30  ">
                     <span className="text-[24px] numfont text-[#667085] line-through">
                       {item.discount}
                     </span>
