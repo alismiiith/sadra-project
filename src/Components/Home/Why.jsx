@@ -3,8 +3,8 @@ const Why = () => {
        <div className="w-full  lg:h-[528px] h-[668px] mt-20 2xl:px-[200px] lg:px-[124px]">
         <div className="top  md:flex  md:w-full md:flex-col   md:items-center justify-center  lg:block mobileflexjustify     ">
              <div className="flex  gap-2 mobileflexjustify ">
-                <span className="text-green-400">__</span>
-                <span className="text-green-400 text-[14px] lg:text-[18px] pt-2">چرا ما</span>
+                <span className="text-[#4CA773]">__</span>
+                <span className="text-[#4CA773] text-[14px] lg:text-[18px] pt-2">چرا ما</span>
              </div>
              <h1 className="lg:text-[40px] md:text-[34px] text-[24px] text-center lg:text-start ">شرکت در دوره‌ها مساوی با ورود قطعی به بازار کار</h1>
              <span className="lg:text-[18px]  md:text-[16px]  text-[14px] md:mx-10 lg:mx-0  text-center opacity-50 lg:text-justify">صدرا، از متدهایی استفاده می‌کنه که مسیر یادگیری برای شما هموارتر می‌کنه و نیروی کاری تربیت می‌کنه که صدرا با افتخار به شرکت‌های موفق معرفی می‌کنه و اشتغال به کار شما رو، بعد از دوره تضمین می‌کنه.</span>
