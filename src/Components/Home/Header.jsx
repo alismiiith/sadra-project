@@ -60,34 +60,39 @@ const Header = () => {
               </Link>
             </div>
           </div>
-          <div className="button  h-[90%] items-center flex-col flex justify-center w-full ">
-            <div className="flex  lg:pt-0 pt-30 justify-center gap-3 items-center flex-col">
+          <div className="button  h-[90%] items-center flex-col  flex justify-center w-full ">
+            <div className="flex  lg:pt-0 pt-[96px] lg:items-start justify-center gap-3 items-center flex-col">
               <h1 className="text-[35px] test text-[#FFFFFF] font-bold">
-                موسسه آموزشی پژوهشی صدرا
+                مؤسسه آموزشی و پژوهشی صدرا
               </h1>
               <span className="lg:text-[25px] md:text-[20px] text-[14px]   opacity-80 text-[#FFFFFF]">
                 دوره مورد علاقت رو شرکت کن، گارانتی پیدا کردن کار با ما
               </span>
-              <span className="lg:text-[18px] md:text-[16px] text-[12px] md:text-center  text-justify  px-10 opacity-60   text-[#FFFFFF]">
+              <span className="lg:text-[18px] md:text-[16px] text-[12px] px-[4%] text-center   lg:text-justify  opacity-60   text-[#FFFFFF]">
                 با شرکت در دوره‌های آموزشی صدرا، از صفر شروع کن و در مسیر
                 یادگیری با بهترین متد‌های آموزشی ما همراه شو، تا ما پلی باشیم
                 برای ورود تضمینی به بازار کار
               </span>
-              <form className="flex relative flex-row w-[80%] ">
+              <form className="flex relative flex-row lg:w-[100%] w-[83%]   ">
                 <input
                   autoComplete="off"
-                  className="lg:w-[100%] md:w-[680px] md:py-5 w-[314px] lg:text-[16px] md:text-[16px] text-[12px] font-bold h-[50px]   lg:h-[72px] bg-[#FFFFFF] rounded-3xl pr-5 "
+                  className="lg:w-[100%] md:w-[680px] md:py-5 w-[314px] lg:text-[16px] md:text-[16px] text-[12px] font-bold h-[50px]   lg:h-[72px] bg-[#FFFFFF] rounded-4xl pr-5 "
                   type="search"
                   name="search"
                   id="search"
                   placeholder="جستجو دوره ها و مربیان ورخدادها"
                 />
+                <select className="absolute test  lg:flex pl-3 lg:text-[16px]   left-[112px] top-[24px]">
+                  <option  value="grade1">دوره ها</option>
+                  <option  value="grade1">دوره ها</option>
+                  <option  value="grade1">دوره ها</option>
+                </select>
                 <span className="w-[1px] h-[25px] lg:h-[40px] bg-gray-400 absolute left-20 top-3 lg:top-4"></span>
                 <label
                   className="flex  cursor-pointer lg:w-[20px] w-[10px] absolute lg:top-6 top-4 left-10 h-[20px]  items-center color "
                   htmlFor="search"
                 >
-                  <i className="fa-solid  fa-magnifying-glass bg-green-400 lg:p-4 p-3  rounded-3xl color"></i>
+                  <i className="fa-solid  fa-magnifying-glass bg-[#4CA773]  lg:p-[15px] p-3.5  rounded-4xl color"></i>
                 </label>
               </form>
               <span className="text-[10px] md:text-[16px] lg:text-[14px] text-[#98A2B3]">
@@ -97,7 +102,7 @@ const Header = () => {
           </div>
         </div>
         <div className="lg:back backimagetablet left justify-end   mt-10 lg:mt-0 w-full h-[254px] backimage md:h-[441px]  lg:h-full lg:w-[33.3%] lg:flex ">
-          <Link to={"/login"} className="text-[16px] lg:flex md:hidden  test h-[50px] mt-5 mr-5 lg:ml-[13%]   rounded-4xl cursor-pointer text-[#FFFFFF] font-semibold px-[32px] py-[16px] bg-[#4CA773]">
+          <Link to={"/login"} className="text-[16px] lg:flex md:hidden  test h-[56px] mt-5  lg:ml-[16.7%]   rounded-4xl cursor-pointer text-[#FFFFFF]  w-[160px] justify-center   py-[16px] bg-[#4CA773]">
             ثبت نام و ورود
           </Link>
         </div>

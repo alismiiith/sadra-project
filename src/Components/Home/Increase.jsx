@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Link } from "react-router-dom";
 
 const Increase = () => {
   const data = [
@@ -21,7 +22,7 @@ const Increase = () => {
               <span className="text-[#4CA773] ">___</span>
               <span className="text-[#4CA773] text-[16px] pt-2">درباره ما</span>
             </div>
-            <h1 className="lg:text-[40px] 2xl:text-[52px] font-bold md:text-[34px] md:text-center  text-[24px]  text-[#101828] lg:w-[70%] 2xl:w-[55 %]  mx-8 lg:mx-0 pt-1">
+            <h1 className="lg:text-[40px] 2xl:text-[52px] font-bold md:text-[34px] text-center  text-[24px]  text-[#101828] lg:w-[70%] 2xl:w-[55 %]  mx-8 lg:mx-0 pt-1">
               افزایش رشد فردی و تقویت استعداد شما
             </h1>
             <span className="lg:text-[18px] md:text-[16px] md:px-20 lg:pr-9 lg:pl-[64px] md:text-center lg:text-justify  text-[14px] text-[#667085] px-7">
@@ -36,21 +37,21 @@ const Increase = () => {
                 {more ? item.des : item.des.substring(0, 0)}
               </p>
             ))}
-            <button
-              onClick={moreHandler}
+            <Link
+              to={"/Learning"}
               className="text-[#32BCA3] md:hidden lg:flex test justify-center items-center lg:mr-8 mt-10 cursor-pointer w-[111px] lg:w-[148px] rounded-4xl h-[44px] lg:h-[56px] px-3 py-1 border-2 border-green-300"
             >
               <p className="lg:text-[16px] text-[12px]">بیشتر بدانیم</p>
-            </button>
-            <div className="w-full md:flex justify-center items-center">
-              <button
-                onClick={moreHandler}
-                className="text-[#4CA773]  lg:hidden textalign lg:mr-10 mt-10 md:w-[138px md:h-[52px] cursor-pointer w-[111px] lg:w-[148px] rounded-3xl h-[44px] lg:h-[56px] px-3 py-1 border-2 border-green-300"
+            </Link>
+            <div className="w-full flex justify-center  mb-[32px] items-center">
+              <Link
+                to={"/Learning"}
+                className="text-[#4CA773]  lg:hidden   lg:mr-10 mt-10 md:w-[138px] md:h-[52px] cursor-pointer w-[111px]  rounded-3xl h-[44px]  px-5 leading-[40px] border-2 border-green-300"
               >
                 <p className="lg:text-[16px] md:text-[14p] text-[12px]">
                   بیشتر بدانیم
                 </p>
-              </button>
+              </Link>
             </div>
           </div>
           <div className="increase__left  lg:w-[50%]     w-[100%]      relative items-center  flex flex-col lg:flex-row ">

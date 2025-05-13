@@ -1,6 +1,6 @@
 const Why = () => {
     return ( <>
-       <div className="w-full  lg:h-[528px] h-[668px] mt-20 2xl:px-[200px] lg:px-[124px]">
+       <div className="w-full  lg:h-[528px] h-[668px] mt-20  lg:px-[8.6%]">
         <div className="top  md:flex  md:w-full md:flex-col   md:items-center justify-center  lg:block mobileflexjustify     ">
              <div className="flex  gap-2 mobileflexjustify ">
                 <span className="text-[#4CA773]">__</span>
