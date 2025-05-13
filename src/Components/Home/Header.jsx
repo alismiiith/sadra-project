@@ -42,8 +42,8 @@ const Header = () => {
                 </div>
               </div>
             </div>
-            <div className="lg:flex md:hidden test lg:w-[80%]   h-[56px] items-center justify-center gap-16">
-              <Link className="2xl:text-[22px] text-[#F9F9F9] font-bold ">
+            <div className="lg:flex md:hidden test lg:w-[80%]     h-[56px] items-center justify-center gap-[7%]">
+              <Link className="2xl:text-[22px]  text-[#F9F9F9] font-bold ">
                 صفحه اصلی
               </Link>
               <Link to={`/Blog`}  className="2xl:text-[20px] opacity-60 text-[#F9F9F9] ">
@@ -55,7 +55,7 @@ const Header = () => {
               >
                 رویدادها
               </Link>
-              <Link className="2xl:text-[20px] opacity-60 text-[#F9F9F9] ">
+              <Link to={`/Contacts`} className="2xl:text-[20px] opacity-60 text-[#F9F9F9] ">
                 تماس با ما
               </Link>
             </div>
@@ -68,7 +68,7 @@ const Header = () => {
               <span className="lg:text-[25px] md:text-[20px] text-[14px]   opacity-80 text-[#FFFFFF]">
                 دوره مورد علاقت رو شرکت کن، گارانتی پیدا کردن کار با ما
               </span>
-              <span className="lg:text-[18px] md:text-[16px] text-[12px] px-[4%] text-center   lg:text-justify  opacity-60   text-[#FFFFFF]">
+              <span className="lg:text-[18px] md:text-[16px] text-[12px] px-[4%] lg:px-0 text-center   lg:text-justify  opacity-60   text-[#FFFFFF]">
                 با شرکت در دوره‌های آموزشی صدرا، از صفر شروع کن و در مسیر
                 یادگیری با بهترین متد‌های آموزشی ما همراه شو، تا ما پلی باشیم
                 برای ورود تضمینی به بازار کار
