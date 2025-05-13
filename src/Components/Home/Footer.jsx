@@ -31,32 +31,32 @@ const Footer = () => {
         <div className="w-full flex-wrap  justify-center gap-x-2   flex flex-row  mt-10 ">
           <div className="w-[82%]  flex flex-row gap-5  ">
             <img
-              className="lg:min-w-[15%] w-[100px] h-[25px] lg:h-[50px] object-contain "
+              className="min-w-[15%]  h-[25px] lg:h-[50px] object-contain "
               src="https://soendergaard.com/wp-content/uploads/2024/06/logoipsum-logo-29-1.png"
               alt=""
             />
             <img
-              className="lg:min-w-[15%] w-[100px] h-[25px] lg:h-[50px] object-contain"
+              className="min-w-[15%]  h-[25px] lg:h-[50px] object-contain"
               src="https://soendergaard.com/wp-content/uploads/2024/06/logoipsum-logo-29-1.png"
               alt=""
             />
             <img
-              className="lg:min-w-[15%] w-[100px] h-[25px] lg:h-[50px] object-contain"
+              className="min-w-[15%]  h-[25px] lg:h-[50px] object-contain"
               src="https://soendergaard.com/wp-content/uploads/2024/06/logoipsum-logo-29-1.png"
               alt=""
             />
             <img
-              className="lg:min-w-[15%] w-[100px] h-[25px] lg:h-[50px] object-contain"
+              className="min-w-[15%]  h-[25px] lg:h-[50px] object-contain"
               src="https://soendergaard.com/wp-content/uploads/2024/06/logoipsum-logo-29-1.png"
               alt=""
             />
             <img
-              className="lg:min-w-[15%] w-[100px] h-[25px] lg:h-[50px] object-contain"
+              className="min-w-[15%]  h-[25px] lg:h-[50px] object-contain"
               src="https://soendergaard.com/wp-content/uploads/2024/06/logoipsum-logo-29-1.png"
               alt=""
             />
             <img
-              className="lg:min-w-[15%] test w-[100px] h-[25px] lg:h-[50px] object-contain"
+              className="min-w-[15%] test  h-[25px] lg:h-[50px] object-contain"
               src="https://soendergaard.com/wp-content/uploads/2024/06/logoipsum-logo-29-1.png"
               alt=""
             />

@@ -11,7 +11,7 @@ const HeaderEvent = () => {
               <div className="flex   deswidth  flex-row  h-[56px]  md:w-full md:px-10 items-center md:justify-between mobileflex   ">
               <div className="flex items-center gap-3 mt-[20px]">
                 <img className="w-[50px] " src="/src/assets/Images/Group 1.svg" alt="" />
-                <p className="xl:text-[25px] text-[20px]   text-[#FFFFFF] font-bold ">صدرا</p>
+                <Link to={"/"} className="xl:text-[25px] text-[20px]   text-[#FFFFFF] font-bold ">صدرا</Link>
                 </div>
                 <div onClick={()=> setIsOpen(!isOpen)}   className="flex-col lg:hidden z-999   relative w-fit flex gap-y-[2px] labeltest    h-[56px] pt-6   desktop:hidden  ">
                     <div className="w-[20px] rounded-l-sm rounded-r-sm h-[2px] bg-[#FFFFFF] "></div>
@@ -30,10 +30,10 @@ const HeaderEvent = () => {
                 </div>
                </div>
                <div className="lg:flex pt-[20px] md:hidden test lg:w-[80%] lg:justify-start    items-center justify-center gap-16">
-                    <Link className="text-[20px] opacity-60 text-[#FFFFFF]  ">صفحه اصلی</Link>
-                    <Link className="text-[20px] opacity-60 text-[#FFFFFF] ">کلاس ها </Link>
-                    <Link className="text-[22px]  font-bold  text-[#FFFFFF] ">رویدادها</Link>
-                    <Link className="text-[20px] opacity-60 text-[#FFFFFF] ">تماس با ما</Link>
+                    <Link to={"/"} className="text-[20px] opacity-60 text-[#FFFFFF]  ">صفحه اصلی</Link>
+                    <Link to={"/Learning"} className="text-[20px] opacity-60 text-[#FFFFFF] ">کلاس ها </Link>
+                    <Link to={"/Events/UIUX"} className="text-[22px]  font-bold  text-[#FFFFFF] ">UI/UX</Link>
+                    <Link to={"/Contacts"} className="text-[20px] opacity-60 text-[#FFFFFF] ">تماس با ما</Link>
                 </div>
               </div>
               <div className="button  h-[90%] items-center flex-col flex justify-center w-full ">
@@ -57,7 +57,9 @@ const HeaderEvent = () => {
               </div>
             </div>
            
-                <button className="text-[18px] lg:absolute  mt-[25px] lg:left-[9%] lg:flex md:hidden  test h-   rounded-3xl cursor-pointer text-[#FFFFFF] font-semibold px-[32px] py-[16px] bg-[#4CA773]">ثبت نام و ورود</button>
+             <Link to={"/Login"} className="text-[18px] lg:absolute lg:top-[20px] lg:left-[8%] lg:flex md:hidden  test   rounded-4xl cursor-pointer text-[#FFFFFF] w-[160px] justify-center   py-[16px] bg-[#4CA773]">
+          ثبت نام و ورود
+        </Link>
            
         </div>
         </>

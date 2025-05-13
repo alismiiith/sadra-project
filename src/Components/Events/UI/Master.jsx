@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const Master = () => {
   return (
     <>
@@ -12,13 +14,13 @@ const Master = () => {
             مدرس استاد علی بابایی
           </h1>
           <div className="flex flex-col w-fit">
-            <span className="text-[28px]  text-[#252525]">128</span>
+            <span className="text-[28px] numfont pr-[10%]  text-[#252525]">128</span>
             <span className="text-[12px] text-[#252525]">هزارتومان</span>
           </div>
         </div>
-        <button className="w-[343px] lg:w-[357px] md:w-[680px] md:h-[60px] md:text-[18px] h-[44px] cursor-pointer bg-[#4CA773]  text-[#FFFFFF] text-[14px] rounded-3xl">
+        <Link to={"/Login"} className="w-[343px] justify-center items-center flex lg:w-[357px] md:w-[680px] md:h-[60px] md:text-[18px] h-[44px] cursor-pointer bg-[#4CA773]  text-[#FFFFFF] text-[14px] rounded-3xl">
           همین حالا ثبت نام کن
-        </button>
+        </Link>
         <hr className="hrsilver lg:w-[357px] md:w-[680px] w-[300px] my-5" />
         <div className="block px-3 md:px-10">
           <h1 className="text-[16px] md:text-[20px] text-[#344054] mb-2">
