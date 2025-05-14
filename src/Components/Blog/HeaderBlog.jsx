@@ -52,10 +52,19 @@ const HeaderBlog = ({ Anatomy, setSearchResults }) => {
         <div className="right lg:w-[100%] w-full  mobilewidth flex flex-col pt-[20px]">
           <div className="top  flex flex-row">
             <div className="flex   deswidth  flex-row lg:pr-[8.6%] h-[56px]  md:w-full md:px-10 items-center md:justify-between mobileflex   ">
-            <div className="flex items-center gap-3 ">
-                <img className="w-[50px] " src="/src/assets/Images/Group 1.svg" alt="" />
-                <Link to={"/"} className="2xl:text-[25px] text-[20px]   text-[#FFFFFF] font-bold ">صدرا</Link>
-                </div>
+              <div className="flex items-center gap-3 ">
+                <img
+                  className="w-[50px] "
+                  src="/src/assets/Images/Group 1.svg"
+                  alt=""
+                />
+                <Link
+                  to={"/"}
+                  className="2xl:text-[25px] text-[20px]   text-[#FFFFFF] font-bold "
+                >
+                  صدرا
+                </Link>
+              </div>
               <div
                 onClick={() => setIsOpen(!isOpen)}
                 className="flex-col lg:hidden z-999   relative w-fit flex gap-y-[2px] labeltest    h-[56px] pt-6   desktop:hidden  "
@@ -71,11 +80,17 @@ const HeaderBlog = ({ Anatomy, setSearchResults }) => {
                 } transition-transform duration-500 ease-in-out `}
               >
                 <div className="  w-[100%] h-full md:justify-start md:pt-20 flex pr-5 justify-center flex-col gap-16">
-                  <Link className="text-[18px] text-[#FFFFFF] font-bold ">
+                  <Link
+                    to={"/"}
+                    className="text-[18px] text-[#FFFFFF] font-bold "
+                  >
                     صفحه اصلی
                   </Link>
-                  <Link className="text-[16px] opacity-60 text-[#FFFFFF] ">
-                    کلاس ها{" "}
+                  <Link
+                    to={"/Blog/Posts"}
+                    className="text-[16px] opacity-60 text-[#FFFFFF] "
+                  >
+                    پست ها{" "}
                   </Link>
                   <Link className="text-[16px] opacity-60  text-[#FFFFFF] ">
                     رویدادها
@@ -87,16 +102,28 @@ const HeaderBlog = ({ Anatomy, setSearchResults }) => {
               </div>
             </div>
             <div className="lg:flex md:hidden test lg:w-[80%] lg:justify-start   h-[56px] items-center justify-center gap-16 ">
-              <Link to={"/"} className="text-[20px] opacity-60 text-[#FFFFFF] font-bold ">
+              <Link
+                to={"/"}
+                className="text-[20px] opacity-60 text-[#FFFFFF] font-bold "
+              >
                 صفحه اصلی
               </Link>
-              <Link className="text-[22px] font-bold  text-[#FFFFFF] ">
-                بلاگ ها{" "}
+              <Link
+                to={"/Blog/Posts"}
+                className="text-[22px] font-bold  text-[#FFFFFF] "
+              >
+                پست ها{" "}
               </Link>
-              <Link to={"/Events"} className="text-[20px] opacity-60  text-[#FFFFFF] ">
+              <Link
+                to={"/Events"}
+                className="text-[20px] opacity-60  text-[#FFFFFF] "
+              >
                 رویدادها
               </Link>
-              <Link to={"/contacts"} className="text-[20px] opacity-60 text-[#FFFFFF] ">
+              <Link
+                to={"/contacts"}
+                className="text-[20px] opacity-60 text-[#FFFFFF] "
+              >
                 تماس با ما
               </Link>
             </div>
@@ -169,9 +196,12 @@ const HeaderBlog = ({ Anatomy, setSearchResults }) => {
           </div>
         </div>
 
-        <button className="text-[18px] lg:absolute lg:top-[20px] lg:left-[8.6%] lg:flex md:hidden  test h-[50px]   rounded-3xl cursor-pointer text-[#FFFFFF] font-semibold px-5 py-3 bg-green-400">
+        <Link
+          to={"/Login"}
+          className="text-[18px] lg:absolute lg:top-[20px] lg:left-[8%] lg:flex md:hidden  test   rounded-4xl cursor-pointer text-[#FFFFFF] w-[160px] justify-center   py-[16px] bg-[#4CA773]"
+        >
           ثبت نام و ورود
-        </button>
+        </Link>
       </div>
     </>
   );
