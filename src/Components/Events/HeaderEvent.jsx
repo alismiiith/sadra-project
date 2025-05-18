@@ -32,8 +32,8 @@ const HeaderEvent = () => {
                <div className="lg:flex pt-[20px] md:hidden test lg:w-[80%] lg:justify-start    items-center justify-center gap-16">
                     <Link to={"/"} className="text-[20px] opacity-60 text-[#FFFFFF]  ">صفحه اصلی</Link>
                     <Link to={"/Learning"} className="text-[20px] opacity-60 text-[#FFFFFF] ">کلاس ها </Link>
-                    <Link to={"/Events/UIUX"} className="text-[22px]  font-bold  text-[#FFFFFF] ">UI/UX</Link>
-                    <Link to={"/Contacts"} className="text-[20px] opacity-60 text-[#FFFFFF] ">تماس با ما</Link>
+                    <Link  className="text-[22px] font-bold   text-[#FFFFFF] ">رویدادها</Link>
+                    <Link to={"/Events/UIUX"} className="text-[22px]   text-[#FFFFFF] ">UI/UX</Link>
                 </div>
               </div>
               <div className="button  h-[90%] items-center flex-col flex justify-center w-full ">

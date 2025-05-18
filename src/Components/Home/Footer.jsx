@@ -28,13 +28,8 @@ const Footer = () => {
             </p>
           </button>
         </div>
-        <div className="w-full flex-wrap  justify-center gap-x-2   flex flex-row  mt-10 ">
-          <div className="w-[82%]  flex flex-row gap-5  ">
-            <img
-              className="min-w-[15%]  h-[25px] lg:h-[50px] object-contain "
-              src="https://soendergaard.com/wp-content/uploads/2024/06/logoipsum-logo-29-1.png"
-              alt=""
-            />
+        <div className="w-full flex-wrap justify-center gap-x-2  flex mt-10 ">
+          <div className="w-[100%] justify-center flex flex-row gap-5  ">
             <img
               className="min-w-[15%]  h-[25px] lg:h-[50px] object-contain"
               src="https://soendergaard.com/wp-content/uploads/2024/06/logoipsum-logo-29-1.png"
@@ -62,13 +57,19 @@ const Footer = () => {
             />
           </div>
         </div>
-        <div className=" flex w-full mt-10  justify-center items-center flex-row">
+        <div className=" flex w-full mt-[80px]  justify-center items-center flex-row">
           <div className="w-[80%]    flex flex-col lg:flex-row gap-10 lg:gap-0    lg:justify-between">
             <div className="w-fit lg:w-[30%] lg:items-start   md:w-full md:items-center flex flex-col gap-3 ">
               <div className="flex items-center gap-3 ">
-                <img className="w-[50px] " src="/src/assets/Images/Group 1.svg" alt="" />
-                <p className="2xl:text-[25px] text-[20px]   text-[#FFFFFF] font-bold ">صدرا</p>
-                </div>
+                <img
+                  className="w-[50px] "
+                  src="/src/assets/Images/Group 1.svg"
+                  alt=""
+                />
+                <p className="2xl:text-[25px] text-[20px]   text-[#FFFFFF] font-bold ">
+                  صدرا
+                </p>
+              </div>
               <span className="text-[#D0D5DD] w-[311px] lg:w-fit text-[14px] lg:text-[16px]">
                 صدرا یک پلتفرم یادگیری آنلاین ملی است که به هر کسی و در هر کجا
                 دسترسی به دوره های آنلاین را ارائه می دهد.
@@ -124,6 +125,36 @@ const Footer = () => {
               </Link>
             </div>
           </div>
+        </div>
+
+
+        <div className="w-[100%] h-[1px] bg-[#7C7C7C] mt-[88px]"></div>
+        <div className="flex w-[100%]  h-[88px] justify-center  ">
+          <div className="flex w-[70%] mr-[8.6%]  justify-start gap-[60px]">
+            <img
+              className="w-[20px] object-contain "
+              src="/src/assets/Images/footer/in.png"
+              alt=""
+            />
+            <img
+              className="w-[20px] object-contain "
+              src="/src/assets/Images/footer/twitter.png"
+              alt=""
+            />
+            <img
+              className="w-[20px] object-contain "
+              src="/src/assets/Images/footer/InstagramLogo.png"
+              alt=""
+            />
+            <img
+              className="w-[20px] object-contain "
+              src="/src/assets/Images/footer/facebook.png"
+              alt=""
+            />
+          </div>
+          <h3 className="flex text-white my-[32px] justify-end ml-[8.6%] w-[30%]">
+            MADE WITH ❤️ FROM Sadra
+          </h3>
         </div>
       </div>
     </>

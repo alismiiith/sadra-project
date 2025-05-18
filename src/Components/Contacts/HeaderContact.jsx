@@ -32,16 +32,16 @@ const HeaderContact = () => {
                 } transition-transform duration-500 ease-in-out `}
               >
                 <div className="  w-[100%] h-full md:justify-start md:pt-20 flex pr-5 justify-center flex-col gap-16">
-                  <Link className="text-[18px] text-[#FFFFFF] font-bold ">
+                  <Link to={"/"} className="text-[16px]  text-[#FFFFFF] opacity-60 ">
                     صفحه اصلی
                   </Link>
-                  <Link className="text-[16px] opacity-60 text-[#FFFFFF] ">
+                  <Link to={"/Learning"} className="text-[16px] opacity-60 text-[#FFFFFF] ">
                     کلاس ها{" "}
                   </Link>
-                  <Link className="text-[16px] opacity-60  text-[#FFFFFF] ">
+                  <Link to={"/Events"} className="text-[16px] opacity-60  text-[#FFFFFF] ">
                     رویدادها
                   </Link>
-                  <Link className="text-[16px] opacity-60 text-[#FFFFFF] ">
+                  <Link  className="text-[18px]  text-[#FFFFFF] font-bold ">
                     تماس با ما
                   </Link>
                 </div>
@@ -49,22 +49,22 @@ const HeaderContact = () => {
             </div>
           </div>
           <div className="lg:flex absolute   md:hidden test lg:w-[80%] lg:justify-center    h-[56px] items-center justify-center gap-16">
-            <Link className="text-[22px] text-[#FFFFFF] font-bold ">
+            <Link to={"/"} className="text-[20px] text-[#FFFFFF] opacity-60 ">
               صفحه اصلی
             </Link>
-            <Link className="text-[20px] opacity-60 text-[#FFFFFF] ">
+            <Link to={"/Learning"} className="text-[20px] opacity-60 text-[#FFFFFF] ">
               کلاس ها{" "}
             </Link>
-            <Link className="text-[20px] opacity-60  text-[#FFFFFF] ">
+            <Link to={"/Events"} className="text-[20px] opacity-60  text-[#FFFFFF] ">
               رویدادها
             </Link>
-            <Link className="text-[20px] opacity-60 text-[#FFFFFF] ">
+            <Link  className="text-[22px] text-[#FFFFFF] font-bold  ">
               تماس با ما
             </Link>
           </div>
-          <button className="text-[18px] lg:absolute lg:top-3 lg:left-20 lg:flex md:hidden  test h-[50px]   rounded-3xl cursor-pointer text-[#FFFFFF] font-semibold px-5 py-3 bg-green-400">
-            ثبت نام و ورود
-          </button>
+             <Link to={"/Login"} className="text-[18px] lg:absolute  lg:left-[8%] lg:flex md:hidden  test   rounded-4xl cursor-pointer text-[#FFFFFF] w-[160px] justify-center   py-[16px] bg-[#4CA773]">
+          ثبت نام و ورود
+        </Link>
         </div>
       </div>
     </>
